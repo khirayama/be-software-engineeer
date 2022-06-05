@@ -84,6 +84,7 @@
 - [ ] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
 - [ ] [「マイコン入門!! 必携用語集」関連の最新 ニュース・レビュー・解説 記事 まとめ - ITmedia Keywords](https://www.itmedia.co.jp/keywords/edn_micro_mustvocab.html)
 - [ ] [東京大学 カリキュラムと学習のながれ](https://www.is.s.u-tokyo.ac.jp/pamph/pdf/utokyo_ISguide2020_01.pdf)
+- [x] [O'Reilly Japan - コンピュータシステムの理論と実装](https://www.oreilly.co.jp/books/9784873117126/)
 - [x] [システムコールとは何なのか - Qiita](https://qiita.com/sxarp/items/aff43dd83b0da69b92ce)
 - [x] [Hello World くらいしかできない言語のアセンブラをつくる - Qiita](https://qiita.com/mitsuchi/items/767544d6ca044cbcc9c4)
 - [x] [linux procfs 徹底入門 - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/15/075138)
