@@ -28,13 +28,12 @@
 
 - [ ] [アルゴリズムとデータ構造 - Qiita](https://qiita.com/k0kubun/items/e7dbb4ca53f903a38c46)
 - [ ] [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)
-- [ ] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
-- [ ] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
 - [ ] [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
 - [ ] [非公式PDF版SICP・新訳 - アスペ日記](https://takeda25.hatenablog.jp/entry/20151030/1446174031)
 - [ ] [アルゴリズムの世界地図 - Qiita](https://qiita.com/square1001/items/6d414167ca95c97bd8b2)
 - [ ] [アルゴ式](https://algo-method.com/)
 - [ ] [AtCoder での実力アップを目指そう！　競プロ典型 90 問 - Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
+- [ ] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
 
 
 ## プログラミング言語
@@ -171,13 +170,14 @@
 - [x] [L7ロードバランサとL4ロードバランサ - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/135430)
 - [x] [グロースの逆説 : メルカリで分析とサービスグロースをやる前に知りたかったこと｜樫田光 | Hikaru Kashida｜note](https://note.com/hik0107/n/n91e296a409a9)
 - [x] [Tao of Node - Design, Architecture & Best Practices | Alex Kondov - Software Engineer](https://alexkondov.com/tao-of-node/)
-- [x] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
+- [x] [ Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
 - [x] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
 - [x] [UIデザイン改善のためのユーザビリティ評価](https://u-site.jp/usability/)
 - [x] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
 - [x] [強いキャッシュ 弱いキャッシュとはなにか – cat /dev/random > /dev/null &](http://blog.xcir.net/?p=2869)
 - [x] [SPA/MPA 議論の俯瞰と 現代における設計のポイント - #tfcon 2022 フロントエンド設計 - Speaker Deck](https://speakerdeck.com/ahomu/mpa-yi-lun-falsefu-kan-to-xian-dai-niokerushe-ji-falsepointo-techfeed-conference-2022-hurontoendoshe-ji)
 - [x] [「アジャイルサムライ」の著者が語る、技術志向の企業が世界をどう見ているのか？ そしてソフトウェアテスト自動化を進化させる方法について。](https://www.publickey1.jp/blog/22/\_jasst_22_tokyo.html)
+- [x] [Re: NginxとApacheって何が違うの？？ - inductor's blog](https://blog.inductor.me/entry/2022/05/31/150707)
 
 
 ## 画像処理とクリエイティブコーディング
@@ -203,6 +203,8 @@
 - [ ] [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/courses/system-design)
 - [ ] [system-design-primer/README-ja.md at master · donnemartin/system-design-primer · GitHub](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
 - [ ] [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+- [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
+- [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
 
 
 ## 仕組みとチュートリアル
@@ -222,6 +224,7 @@
 - [ ] [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)
 - [ ] [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [ ] [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
+- [ ] [Web Browser Engineering](https://browser.engineering/)
 - [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) [repo khirayama/mpm](https://github.com/khirayama/mpm)
 - [x] [minipack](https://github.com/ronami/minipack) [repo khirayama/minipack](https://github.com/khirayama/minipack)
 - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
