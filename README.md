@@ -235,16 +235,15 @@
 - [x] [O'Reilly Japan - Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
 - [x] [How Google Works (日本経済新聞出版) | エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00OJVMK5O)
 - [x] [ワーク・ルールズ！―君の生き方とリーダーシップを変える | ラズロ・ボック, 鬼澤 忍, 矢羽野 薫 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B010UV1QTW)
-- 異文化理解力
-- GE 巨人の復活
-- エンジニアリング組織論への招待
-- 失敗の本質
+- [x] [異文化理解力｜書籍｜英治出版](http://www.eijipress.co.jp/book/book.php?epcode=2208)
+- [x] [エンジニアリング組織論への招待 ～不確実性に向き合う思考と組織のリファクタリング：書籍案内｜技術評論社](https://gihyo.jp/book/2018/978-4-7741-9605-3)
+- [x] [失敗の本質 | 戸部 良一, 寺本 義也, 鎌田 伸一, 杉之尾 孝生, 村井 友秀, 野中 郁次郎 | 軍事 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00BN16XX8)
+- [x] [『GE 巨人の復活』を読んだ](http://xaro.hatenablog.jp/entry/2017/08/06/090133#f-768af298)
 - 126: Anti-Democratic Product Management (higepon) http://rebuild.fm/126/
 - 98: Superhumans Wanted (Naoya Ito) http://rebuild.fm/98/
 - 123: The Grail Dialogue (Naoya Ito) http://rebuild.fm/123/
 - #29-1 マネージャーのエモい話をしよう http://lean-agile.fm/episode/29-1
 - サンフランシスコではたらくソフトウェアエンジニアのメモ http://d.hatena.ne.jp/higepon/20150727/1438004301
-- 『GE 巨人の復活』を読んだ http://xaro.hatenablog.jp/entry/2017/08/06/090133#f-768af298
 - ハーズバーグの２要因理論とは？ http://kubo-cpa-office.com/business/herzberg/
 - Google：マネージャはやはり重要な存在である https://www.infoq.com/jp/news/2017/02/google-managers
 - ベンチャー企業のガバナンスモデル http://startupinnovators.jp/blog/78/
