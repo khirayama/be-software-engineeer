@@ -239,9 +239,10 @@
 - [x] [エンジニアリング組織論への招待 ～不確実性に向き合う思考と組織のリファクタリング：書籍案内｜技術評論社](https://gihyo.jp/book/2018/978-4-7741-9605-3)
 - [x] [失敗の本質 | 戸部 良一, 寺本 義也, 鎌田 伸一, 杉之尾 孝生, 村井 友秀, 野中 郁次郎 | 軍事 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00BN16XX8)
 - [x] [『GE 巨人の復活』を読んだ](http://xaro.hatenablog.jp/entry/2017/08/06/090133#f-768af298)
-- 126: Anti-Democratic Product Management (higepon) http://rebuild.fm/126/
-- 98: Superhumans Wanted (Naoya Ito) http://rebuild.fm/98/
-- 123: The Grail Dialogue (Naoya Ito) http://rebuild.fm/123/
+- [x] [126: Anti-Democratic Product Management (higepon)](http://rebuild.fm/126/)
+- [x] [98: Superhumans Wanted (Naoya Ito)](http://rebuild.fm/98/)
+- [x] [123: The Grail Dialogue (Naoya Ito)](http://rebuild.fm/123/)
+
 - #29-1 マネージャーのエモい話をしよう http://lean-agile.fm/episode/29-1
 - サンフランシスコではたらくソフトウェアエンジニアのメモ http://d.hatena.ne.jp/higepon/20150727/1438004301
 - ハーズバーグの２要因理論とは？ http://kubo-cpa-office.com/business/herzberg/
