@@ -225,8 +225,8 @@
 - [ ] [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [ ] [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] [Web Browser Engineering](https://browser.engineering/)
-- [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) [repo khirayama/mpm](https://github.com/khirayama/mpm)
-- [x] [minipack](https://github.com/ronami/minipack) [repo khirayama/minipack](https://github.com/khirayama/minipack)
+- [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
+- [x] [minipack](https://github.com/ronami/minipack)
 - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
 
 
