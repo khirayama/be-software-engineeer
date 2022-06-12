@@ -15,13 +15,15 @@
 
 ## 全体像
 
-- [x] [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
-- [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
-- [x] [みんなのコンピュータサイエンス | Wladston Ferreira Filho, 小山 裕司, 小山 裕司 | コンピュータ・IT | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07KXP79Y9/)
-- [x] [すぐ理解できるオールカラー ニュースペックテキスト 応用情報技術者 2022年度版 (TAC出版) | TAC株式会社（情報処理講座） | コンピュータ・情報処理 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B09P83G2DW/)
-- [ ] [教養としてのコンピューターサイエンス講義　今こそ知っておくべき「デジタル世界」の基礎知識 | ブライアン・カーニハン, 酒匂 寛, 坂村 健 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B085971KFL/)
-- [ ] [入門 コンピュータ科学　ITを支える技術と理論の基礎知識 (アスキードワンゴ) | Ｊ．Ｇｌｅｎｎ Ｂｒｏｏｋｓｈｅａｒ, 神林 靖, 長尾 高弘 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B06XVXB2KH/)
-- [ ] [コンピュータシステムの基礎　第18版 | アイテックIT人材教育研究部 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B09G6QDRNM/)
+- 書籍
+  - [x] [すぐ理解できるオールカラー ニュースペックテキスト 応用情報技術者 2022年度版 (TAC出版) | TAC株式会社（情報処理講座） | コンピュータ・情報処理 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B09P83G2DW/)
+  - [x] [みんなのコンピュータサイエンス | Wladston Ferreira Filho, 小山 裕司, 小山 裕司 | コンピュータ・IT | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07KXP79Y9/)
+  - [ ] [教養としてのコンピューターサイエンス講義　今こそ知っておくべき「デジタル世界」の基礎知識 | ブライアン・カーニハン, 酒匂 寛, 坂村 健 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B085971KFL/)
+  - [ ] [入門 コンピュータ科学　ITを支える技術と理論の基礎知識 (アスキードワンゴ) | Ｊ．Ｇｌｅｎｎ Ｂｒｏｏｋｓｈｅａｒ, 神林 靖, 長尾 高弘 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B06XVXB2KH/)
+  - [ ] [コンピュータシステムの基礎　第18版 | アイテックIT人材教育研究部 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B09G6QDRNM/)
+- リンク
+  - [x] [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
+  - [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
 
 
 ## データ構造とアルゴリズム
