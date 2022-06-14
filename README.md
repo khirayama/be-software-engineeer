@@ -28,14 +28,16 @@
 
 ## データ構造とアルゴリズム
 
-- [ ] [アルゴリズムとデータ構造 - Qiita](https://qiita.com/k0kubun/items/e7dbb4ca53f903a38c46)
-- [ ] [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)
-- [ ] [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
-- [ ] [非公式PDF版SICP・新訳 - アスペ日記](https://takeda25.hatenablog.jp/entry/20151030/1446174031)
-- [ ] [アルゴリズムの世界地図 - Qiita](https://qiita.com/square1001/items/6d414167ca95c97bd8b2)
-- [ ] [アルゴ式](https://algo-method.com/)
-- [ ] [AtCoder での実力アップを目指そう！　競プロ典型 90 問 - Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
-- [ ] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
+- 書籍
+- リンク
+  - [ ] [アルゴリズムとデータ構造 - Qiita](https://qiita.com/k0kubun/items/e7dbb4ca53f903a38c46)
+  - [ ] [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)
+  - [ ] [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
+  - [ ] [非公式PDF版SICP・新訳 - アスペ日記](https://takeda25.hatenablog.jp/entry/20151030/1446174031)
+  - [ ] [アルゴリズムの世界地図 - Qiita](https://qiita.com/square1001/items/6d414167ca95c97bd8b2)
+  - [ ] [アルゴ式](https://algo-method.com/)
+  - [ ] [AtCoder での実力アップを目指そう！　競プロ典型 90 問 - Qiita](https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9)
+  - [ ] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
 
 
 ## プログラミング言語
