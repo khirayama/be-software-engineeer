@@ -196,9 +196,11 @@
 
 ## 画像処理とクリエイティブコーディング
 
-- [ ] [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
-- [ ] [Cours_Bordeaux_Montaigne/L2_2015_2016 at master · v3ga/Cours_Bordeaux_Montaigne](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2015_2016)
-- [x] [デイリークリエイティブコーディング入門 - karaage. [からあげ]](https://karaage.hatenadiary.jp/entry/2021/11/29/073000)
+- 書籍
+- リンク
+  - [ ] [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
+  - [ ] [Cours_Bordeaux_Montaigne/L2_2015_2016 at master · v3ga/Cours_Bordeaux_Montaigne](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2015_2016)
+  - [x] [デイリークリエイティブコーディング入門 - karaage. [からあげ]](https://karaage.hatenadiary.jp/entry/2021/11/29/073000)
 
 
 ## セキュリティと暗号
