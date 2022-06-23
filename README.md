@@ -205,49 +205,68 @@
 
 ## セキュリティと暗号
 
-- [x] [セキュリティ視点からの JWT 入門 - blog of morioka12](https://scgajge12.hatenablog.com/entry/jwt_security)
-- [x] [2020年版 チーム内勉強会資料その1 : JSON Web Token - r-weblife](https://ritou.hatenablog.com/entry/2020/06/08/050000)
+- 書籍
+- リンク
+  - [x] [セキュリティ視点からの JWT 入門 - blog of morioka12](https://scgajge12.hatenablog.com/entry/jwt_security)
+  - [x] [2020年版 チーム内勉強会資料その1 : JSON Web Token - r-weblife](https://ritou.hatenablog.com/entry/2020/06/08/050000)
 
 
 ## 機械学習
 
-- [ ] [みんな、とにかくオセロAIを作るんだ - Qiita](https://qiita.com/Nyanyan_Cube/items/1839732d7bdf74caff21)
+- 書籍
+- リンク
+  - [ ] [みんな、とにかくオセロAIを作るんだ - Qiita](https://qiita.com/Nyanyan_Cube/items/1839732d7bdf74caff21)
 
 
 ## 面接対策
 
-- [ ] [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/courses/system-design)
-- [ ] [system-design-primer/README-ja.md at master · donnemartin/system-design-primer · GitHub](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
-- [ ] [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
-- [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
-- [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
+- 書籍
+- リンク
+  - [ ] [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/courses/system-design)
+  - [ ] [system-design-primer/README-ja.md at master · donnemartin/system-design-primer · GitHub](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
+  - [ ] [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+  - [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
+  - [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
 
 
 ## 仕組みとチュートリアル
 
-- [ ] [Let's Create a Simple Load Balancer With Go - kasvith.github.io - a personal blog space](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
-- [ ] [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
-- [ ] [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem. - DEV Community](https://dev.to/pluralsight/vanilla-javascript-and-html-no-frameworks-no-libraries-no-problem-2n99)
-- [ ] [JSON Parser with JavaScript | Tan Li Hau](https://lihautan.com/json-parser-with-javascript/)
-- [ ] [C言語でSQLiteのクローンを作るチュートリアルやった - valid,invalid](https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial)
-- [ ] [Goで作るテキストエディタ - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2020/07/29/113000)
-- [ ] [Fullstack app with TypeScript, Next.js, Prisma & GraphQL](https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
-- [ ] [ちいさな Web ブラウザを作ってみよう](https://browserbook.shift-js.info/)
-- [ ] [V8 エンジンを Unity Android アプリ上で動かす（V8 ビルド編） - e.blog](https://edom18.hateblo.jp/entry/2022/05/29/124951)
-- [ ] [Chromeをビルドして部屋を暖めよう - ainnoooのブログ](https://ainnooo.hatenablog.com/entry/2021/12/17/205217)
-- [ ] [【公式】ぷよぷよeスポーツ×プログラミング](http://puyo.sega.jp/program_2020/)
-- [ ] [すべての開発者へ。すごいGitHubリポジトリ10選 - Qiita](https://qiita.com/baby-degu/items/6c0c73a1e79644ebbb1a)
-- [ ] [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)
-- [ ] [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
-- [ ] [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
-- [ ] [Web Browser Engineering](https://browser.engineering/)
-- [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
-- [x] [minipack](https://github.com/ronami/minipack)
-- [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
+- 書籍
+- リンク
+  - [ ] [Let's Create a Simple Load Balancer With Go - kasvith.github.io - a personal blog space](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
+  - [ ] [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
+  - [ ] [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem. - DEV Community](https://dev.to/pluralsight/vanilla-javascript-and-html-no-frameworks-no-libraries-no-problem-2n99)
+  - [ ] [JSON Parser with JavaScript | Tan Li Hau](https://lihautan.com/json-parser-with-javascript/)
+  - [ ] [C言語でSQLiteのクローンを作るチュートリアルやった - valid,invalid](https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial)
+  - [ ] [Goで作るテキストエディタ - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2020/07/29/113000)
+  - [ ] [Fullstack app with TypeScript, Next.js, Prisma & GraphQL](https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+  - [ ] [ちいさな Web ブラウザを作ってみよう](https://browserbook.shift-js.info/)
+  - [ ] [V8 エンジンを Unity Android アプリ上で動かす（V8 ビルド編） - e.blog](https://edom18.hateblo.jp/entry/2022/05/29/124951)
+  - [ ] [Chromeをビルドして部屋を暖めよう - ainnoooのブログ](https://ainnooo.hatenablog.com/entry/2021/12/17/205217)
+  - [ ] [【公式】ぷよぷよeスポーツ×プログラミング](http://puyo.sega.jp/program_2020/)
+  - [ ] [すべての開発者へ。すごいGitHubリポジトリ10選 - Qiita](https://qiita.com/baby-degu/items/6c0c73a1e79644ebbb1a)
+  - [ ] [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)
+  - [ ] [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+  - [ ] [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
+  - [ ] [Web Browser Engineering](https://browser.engineering/)
+  - [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
+  - [x] [minipack](https://github.com/ronami/minipack)
+  - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
+
+
+## ソフトスキルとキャリア
+
+- 書籍
+- リンク
+  - [x] [AddyOsmani.com - Software Engineering Insights From 10 Years At Google](https://web.archive.org/web/20220519020040/https://addyosmani.com/blog/software-eng-10-years/)
+  - [x] [AddyOsmani.com - Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR2pGD3zoxb1FCQc3FjdwusZ7_C-qU0INq-PljRwZafasfQcDaY5dOC-pOA)
+
 
 
 ## 組織マネジメント
 
+- 書籍
+- リンク
 - [x] [O'Reilly Japan - Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
 - [x] [How Google Works (日本経済新聞出版) | エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00OJVMK5O)
 - [x] [ワーク・ルールズ！―君の生き方とリーダーシップを変える | ラズロ・ボック, 鬼澤 忍, 矢羽野 薫 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B010UV1QTW)
