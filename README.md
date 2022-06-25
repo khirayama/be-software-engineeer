@@ -279,7 +279,6 @@
 - [x] [126: Anti-Democratic Product Management (higepon)](http://rebuild.fm/126/)
 - [x] [98: Superhumans Wanted (Naoya Ito)](http://rebuild.fm/98/)
 - [x] [123: The Grail Dialogue (Naoya Ito)](http://rebuild.fm/123/)
-- [x] [AddyOsmani.com - Software Engineering Insights From 10 Years At Google](https://web.archive.org/web/20220519020040/https://addyosmani.com/blog/software-eng-10-years/)
 - [x] [#29-1 マネージャーのエモい話をしよう](http://lean-agile.fm/episode/29-1)
 - [x] [サンフランシスコではたらくソフトウェアエンジニアのメモ](http://d.hatena.ne.jp/higepon/20150727/1438004301)
 - [x] [ハーズバーグの２要因理論とは？](http://kubo-cpa-office.com/business/herzberg)
