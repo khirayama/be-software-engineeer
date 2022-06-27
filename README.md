@@ -69,6 +69,8 @@
   - [x] [Goの抽象構文木（AST）を手入力してHello, Worldを作る #golang](https://qiita.com/tenntenn/items/0cbc6f1f00dc579fcd8c) [repo khirayama/sandbox/go-ast](https://github.com/khirayama/sandbox/tree/master/go-ast)
   - [x] [簡単なプログラミング言語を作るライブコーディング](https://www.youtube.com/watch?v=JAtN0TGrNE4&app=desktop) [repo khirayama/learn-computer-science/language-processor](https://github.com/khirayama/learn-computer-science/tree/master/language-processor)
   - [x] [ブラウザ JavaScript / Node.js の仕組みを知ろう！ ～トラブルに迅速に立ち向かえる様に - Qiita](https://qiita.com/megmogmog1965/items/e180d02be711cecdc038)
+  - [x] [A Philosophy of Software Design 前半 - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/a-philosophy-of-software-design-qian-ban)
+  - [x] [A Philosophy of Software Design 後半 - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/a-philosophy-of-software-design-hou-ban)
 
 
 ## コンピュータとOS
