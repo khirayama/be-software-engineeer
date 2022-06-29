@@ -71,6 +71,7 @@
   - [x] [ブラウザ JavaScript / Node.js の仕組みを知ろう！ ～トラブルに迅速に立ち向かえる様に - Qiita](https://qiita.com/megmogmog1965/items/e180d02be711cecdc038)
   - [x] [A Philosophy of Software Design 前半 - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/a-philosophy-of-software-design-qian-ban)
   - [x] [A Philosophy of Software Design 後半 - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/a-philosophy-of-software-design-hou-ban)
+  - [x] [GoのGC (garbage collector)について理解する - Speaker Deck](https://speakerdeck.com/uji/gofalsegc-garbage-collector-nituiteli-jie-suru)
 
 
 ## コンピュータとOS
