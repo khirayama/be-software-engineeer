@@ -255,6 +255,7 @@
   - [ ] [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
   - [ ] [Web Browser Engineering](https://browser.engineering/)
   - [ ] [Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)[Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)[Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)
+  - [ ] [Next.jsとStripeではじめるシンプルなECサイト開発ワークショップ](https://zenn.dev/stripe/books/stripe-nextjs-use-shopping-cart)
   - [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
   - [x] [minipack](https://github.com/ronami/minipack)
   - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
