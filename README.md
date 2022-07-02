@@ -73,6 +73,7 @@
   - [x] [A Philosophy of Software Design 後半 - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/a-philosophy-of-software-design-hou-ban)
   - [x] [GoのGC (garbage collector)について理解する - Speaker Deck](https://speakerdeck.com/uji/gofalsegc-garbage-collector-nituiteli-jie-suru)
   - [x] [いまさら聞けないNode.js | さくらのナレッジ](https://knowledge.sakura.ad.jp/24148/)
+  - [x] [Node.jsの非同期I/Oについて調べてみた - Tech Blog - Recruit Engineer](https://engineer.recruit-lifestyle.co.jp/techblog/2019-12-13-node-async-io/)
 
 
 ## コンピュータとOS
