@@ -65,7 +65,7 @@
   - [ ] [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
   - [ ] [第一回 簡易PostScriptインタプリタを作ろう](https://karino2.github.io/c-lesson/forth_modoki.html)
   - [ ] [10ステップで作るお手軽インタプリタ開発](https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa)
-  - [ ] [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook/)
+  - [ ] [Rubyのメモリ管理方法1: 基本概念（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2022_06_02/118259)
   - [x] [Goの抽象構文木（AST）を手入力してHello, Worldを作る #golang](https://qiita.com/tenntenn/items/0cbc6f1f00dc579fcd8c) [repo khirayama/sandbox/go-ast](https://github.com/khirayama/sandbox/tree/master/go-ast)
   - [x] [簡単なプログラミング言語を作るライブコーディング](https://www.youtube.com/watch?v=JAtN0TGrNE4&app=desktop) [repo khirayama/learn-computer-science/language-processor](https://github.com/khirayama/learn-computer-science/tree/master/language-processor)
   - [x] [ブラウザ JavaScript / Node.js の仕組みを知ろう！ ～トラブルに迅速に立ち向かえる様に - Qiita](https://qiita.com/megmogmog1965/items/e180d02be711cecdc038)
