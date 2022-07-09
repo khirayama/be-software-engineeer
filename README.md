@@ -260,6 +260,7 @@
   - [ ] [Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)[Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)[Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)
   - [ ] [Next.jsとStripeではじめるシンプルなECサイト開発ワークショップ](https://zenn.dev/stripe/books/stripe-nextjs-use-shopping-cart)
   - [ ] [今年もミクシィの22新卒技術研修の資料と動画を公開します！. 今年は昨年より多くの研修の資料と動画を公開します！ | by Koji Kita | Jul, 2022 | mixi developers](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)[今年もミクシィの22新卒技術研修の資料と動画を公開します！. 今年は昨年より多くの研修の資料と動画を公開します！ | by Koji Kita | Jul, 2022 | mixi developers](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
+  - [ ] [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook/)
   - [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
   - [x] [minipack](https://github.com/ronami/minipack)
   - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
