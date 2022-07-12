@@ -146,6 +146,7 @@
   - [ ] [大学の実験でChromiumに勝手に機能を追加してみた話](http://akaria.hatenablog.com/entry/2017/12/15/144459)
   - [ ] [WebAssembly 開発環境構築の本](https://wasm-dev-book.netlify.com/webpack.html)
   - [ ] [パケットを作るぞい](https://github.com/akakou/let-us-make-packets)
+  - [ ] [第1章 進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし、HTTP/3の基本を知る | gihyo.jp](https://gihyo.jp/admin/serial/01/http3/0001)
   - [x] [Webpagetestから始める継続的パフォーマンス改善](http://azu.github.io/slide/2018/roppongijs/webpagetest-performance.html)
   - [x] [なぜMACアドレスとIPアドレスは両方必要なのか？](https://zenn.dev/haan/articles/d0eba891974649)
 
