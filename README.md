@@ -548,3 +548,4 @@
   - [x] [Taimu Hanashiro / BCG Digital VenturesさんはTwitterを使っています: 「「The making of a Manager」の著者が、1on1で会話の流れをつくるためにしている質問リスト。問題の本質を知っているのは現場のメンバーであり、問題を解決するのもメンバー自身。マネージャーは主導権を渡し、聞き役に徹して、問題の本質を探ることに努める。 https://t.co/o0UnAYtglP」 / Twitter](https://mobile.twitter.com/taimuhanashiro/status/1536121166473068545?t=csuQMZaHl9fwG31VZov5uw&s=19)
   - [x] [Management 3.0モデルのエッセンスポスター - Speaker Deck](https://speakerdeck.com/takufujii/management-3-dot-0moderufalseetusensuposuta)
   - [x] [なぜ、我々はマネジメントの道を歩むのか | 覚え書き | @kazuhito](https://kidachi.kazuhi.to/blog/archives/041555.html)
+  - [x] [ITエンジニア採用入門](https://zenn.dev/tbpgr/books/214cd4a0052a92)
