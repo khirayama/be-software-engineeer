@@ -550,3 +550,4 @@
   - [x] [なぜ、我々はマネジメントの道を歩むのか | 覚え書き | @kazuhito](https://kidachi.kazuhi.to/blog/archives/041555.html)
   - [x] [ITエンジニア採用入門](https://zenn.dev/tbpgr/books/214cd4a0052a92)
   - [x] [決めるとはなにか｜Yuta Sawa｜note](https://note.com/sawawww/n/n1420589de590)
+  - [x] [マネジメントは経験でもセンスでもない。「型」を学んで実行するのみ。｜長村禎庸@EVeM｜note](https://note.com/nagam/n/ne9ab70eb4360)
