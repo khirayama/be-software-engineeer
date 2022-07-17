@@ -272,6 +272,7 @@
 ## ソフトスキルとキャリア
 
 - 書籍
+  - [ ] [O'Reilly Japan - リーダーの作法](https://www.oreilly.co.jp/books/9784873119892/)
 - リンク
   - [x] [AddyOsmani.com - Software Engineering Insights From 10 Years At Google](https://web.archive.org/web/20220519020040/https://addyosmani.com/blog/software-eng-10-years/)
   - [x] [AddyOsmani.com - Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR2pGD3zoxb1FCQc3FjdwusZ7_C-qU0INq-PljRwZafasfQcDaY5dOC-pOA)
