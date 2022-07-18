@@ -282,6 +282,7 @@
 ## 組織マネジメント
 
 - 書籍
+  - [x] [O'Reilly Japan - エンジニアリングマネージャーのしごと](https://www.oreilly.co.jp/books/9784873119946/)
 - リンク
   - [x] [O'Reilly Japan - Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
   - [x] [How Google Works (日本経済新聞出版) | エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00OJVMK5O)
