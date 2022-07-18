@@ -273,6 +273,9 @@
 
 - 書籍
   - [ ] [O'Reilly Japan - リーダーの作法](https://www.oreilly.co.jp/books/9784873119892/)
+  - [x] [O'Reilly Japan - Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
+  - [x] [How Google Works (日本経済新聞出版) | エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00OJVMK5O)
+  - [x] [ワーク・ルールズ！―君の生き方とリーダーシップを変える | ラズロ・ボック, 鬼澤 忍, 矢羽野 薫 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B010UV1QTW)
 - リンク
   - [x] [AddyOsmani.com - Software Engineering Insights From 10 Years At Google](https://web.archive.org/web/20220519020040/https://addyosmani.com/blog/software-eng-10-years/)
   - [x] [AddyOsmani.com - Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR2pGD3zoxb1FCQc3FjdwusZ7_C-qU0INq-PljRwZafasfQcDaY5dOC-pOA)
