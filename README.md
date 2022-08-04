@@ -289,6 +289,7 @@
   - [x] [異文化理解力｜書籍｜英治出版](http://www.eijipress.co.jp/book/book.php?epcode=2208)
   - [x] [エンジニアリング組織論への招待 ～不確実性に向き合う思考と組織のリファクタリング：書籍案内｜技術評論社](https://gihyo.jp/book/2018/978-4-7741-9605-3)
   - [x] [失敗の本質 | 戸部 良一, 寺本 義也, 鎌田 伸一, 杉之尾 孝生, 村井 友秀, 野中 郁次郎 | 軍事 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00BN16XX8)
+  - [ ] [組織行動 有斐閣ストゥディア | 鈴木竜太, 服部泰宏 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07TYRMZ2S/ref=cm_sw_r_tw_dp_KA0G2PJRDV21P4V527W0)
 - リンク
   - [x] [『GE 巨人の復活』を読んだ](http://xaro.hatenablog.jp/entry/2017/08/06/090133#f-768af298)
   - [x] [126: Anti-Democratic Product Management (higepon)](http://rebuild.fm/126/)
