@@ -555,3 +555,4 @@
   - [x] [ITエンジニア採用入門](https://zenn.dev/tbpgr/books/214cd4a0052a92)
   - [x] [決めるとはなにか｜Yuta Sawa｜note](https://note.com/sawawww/n/n1420589de590)
   - [x] [マネジメントは経験でもセンスでもない。「型」を学んで実行するのみ。｜長村禎庸@EVeM｜note](https://note.com/nagam/n/ne9ab70eb4360)
+  - [x] [Product manager interview questions and how to answer them - LogRocket Blog](https://blog.logrocket.com/product-management/product-manager-interview-questions-how-to-answer/)
