@@ -556,3 +556,4 @@
   - [x] [決めるとはなにか｜Yuta Sawa｜note](https://note.com/sawawww/n/n1420589de590)
   - [x] [マネジメントは経験でもセンスでもない。「型」を学んで実行するのみ。｜長村禎庸@EVeM｜note](https://note.com/nagam/n/ne9ab70eb4360)
   - [x] [Product manager interview questions and how to answer them - LogRocket Blog](https://blog.logrocket.com/product-management/product-manager-interview-questions-how-to-answer/)
+  - [x] [テスラの生産性を高めているのはイーロン・マスクではなく、優れた管理職。研究結果が明らかに | ライフハッカー［日本版］](https://www.lifehacker.jp/article/2209-great-managers-make-biggest-impact-on-productivity-revenue-retention/)
