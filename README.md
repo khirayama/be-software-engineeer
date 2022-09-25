@@ -235,6 +235,8 @@
 - リンク
   - [ ] [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/courses/system-design)
   - [ ] [system-design-primer/README-ja.md at master · donnemartin/system-design-primer · GitHub](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
+  - [ ] [Grokking the System Design Interview - Learn Interactively](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - [ ] [シリコンバレーでエンジニア就職する前に知りたかったこと | Milezero](https://tnanjo.net//2019/07/14/technical-interview-in-us.html)
   - [ ] [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
   - [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
   - [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
