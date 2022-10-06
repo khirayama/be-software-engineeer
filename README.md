@@ -590,3 +590,6 @@
   - [x] [マネジメントは経験でもセンスでもない。「型」を学んで実行するのみ。｜長村禎庸@EVeM｜note](https://note.com/nagam/n/ne9ab70eb4360)
   - [x] [Product manager interview questions and how to answer them - LogRocket Blog](https://blog.logrocket.com/product-management/product-manager-interview-questions-how-to-answer/)
   - [x] [テスラの生産性を高めているのはイーロン・マスクではなく、優れた管理職。研究結果が明らかに | ライフハッカー［日本版］](https://www.lifehacker.jp/article/2209-great-managers-make-biggest-impact-on-productivity-revenue-retention/)
+  - [x] [ロックスターになれなくてもいい。ソフトウェア開発に長く携わる技術「メタエンジニアリング」とは - Findy Engineer Lab - ファインディエンジニアラボ](https://engineer-lab.findy-code.io/meta-engineering)
+  - [x] [安心して妊娠出産の準備を。マネーフォワード版「産休育休ガイドブック」をリリースしました｜マネーフォワード採用公式｜note](https://note.com/mf_recruitment/n/n34a310d63ff0)
+  - [x] [Kind Engineering: How To Engineer Kindness](https://kind.engineering/)
