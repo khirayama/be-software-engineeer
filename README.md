@@ -595,3 +595,5 @@
   - [x] [ロックスターになれなくてもいい。ソフトウェア開発に長く携わる技術「メタエンジニアリング」とは - Findy Engineer Lab - ファインディエンジニアラボ](https://engineer-lab.findy-code.io/meta-engineering)
   - [x] [安心して妊娠出産の準備を。マネーフォワード版「産休育休ガイドブック」をリリースしました｜マネーフォワード採用公式｜note](https://note.com/mf_recruitment/n/n34a310d63ff0)
   - [x] [Kind Engineering: How To Engineer Kindness](https://kind.engineering/)
+  - [x] [経営とソフトウェアエンジニアリングの接続 - WEB SALAD](https://web-salad.hateblo.jp/entry/2022/09/30/130000)
+  - [x] [あなたが学んだアジャイルとテスラの手法は何が違うのか？　認定スクラムトレーナーが語る、テスラの真の凄さ - ログミーTech](https://logmi.jp/tech/articles/327160)
