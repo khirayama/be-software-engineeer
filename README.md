@@ -599,3 +599,4 @@
   - [x] [経営とソフトウェアエンジニアリングの接続 - WEB SALAD](https://web-salad.hateblo.jp/entry/2022/09/30/130000)
   - [x] [あなたが学んだアジャイルとテスラの手法は何が違うのか？　認定スクラムトレーナーが語る、テスラの真の凄さ - ログミーTech](https://logmi.jp/tech/articles/327160)
   - [x] [VUCAワールドから紐解く組織や評価制度の変遷と再設計 - Speaker Deck](https://speakerdeck.com/matsumoto_r/vucawarudokaraniu-jie-kuzu-zhi-yaping-jia-zhi-du-falsebian-qian-tozai-she-ji)
+  - [x] [スタートアップ人事評価制度の「超」基本 | Coral Capital](https://coralcap.co/2022/10/employee-evaluation-system/)
