@@ -232,6 +232,7 @@
   - [x] [SPA/MPA 議論の俯瞰と 現代における設計のポイント - #tfcon 2022 フロントエンド設計 - Speaker Deck](https://speakerdeck.com/ahomu/mpa-yi-lun-falsefu-kan-to-xian-dai-niokerushe-ji-falsepointo-techfeed-conference-2022-hurontoendoshe-ji)
   - [x] [「アジャイルサムライ」の著者が語る、技術志向の企業が世界をどう見ているのか？ そしてソフトウェアテスト自動化を進化させる方法について。](https://www.publickey1.jp/blog/22/\_jasst_22_tokyo.html)
   - [x] [Re: NginxとApacheって何が違うの？？ - inductor's blog](https://blog.inductor.me/entry/2022/05/31/150707)
+  - [x] [バッチ処理 プラクティス](https://www.yamarkz.com/blog/implementation-practices-for-batch-processing)
 
 
 ## 画像処理とクリエイティブコーディング
