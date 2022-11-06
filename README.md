@@ -233,6 +233,7 @@
   - [x] [「アジャイルサムライ」の著者が語る、技術志向の企業が世界をどう見ているのか？ そしてソフトウェアテスト自動化を進化させる方法について。](https://www.publickey1.jp/blog/22/\_jasst_22_tokyo.html)
   - [x] [Re: NginxとApacheって何が違うの？？ - inductor's blog](https://blog.inductor.me/entry/2022/05/31/150707)
   - [x] [バッチ処理 プラクティス](https://www.yamarkz.com/blog/implementation-practices-for-batch-processing)
+  - [x] [People Don’t Read Online—They Scan. This Is How to Write for Them | by Rita Kind-Envy | Oct, 2022 | UX Planet](https://uxplanet.org/people-dont-read-online-they-scan-this-is-how-to-write-for-them-80a75069c14e)
 
 
 ## 画像処理とクリエイティブコーディング
