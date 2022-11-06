@@ -234,6 +234,7 @@
   - [x] [Re: NginxとApacheって何が違うの？？ - inductor's blog](https://blog.inductor.me/entry/2022/05/31/150707)
   - [x] [バッチ処理 プラクティス](https://www.yamarkz.com/blog/implementation-practices-for-batch-processing)
   - [x] [People Don’t Read Online—They Scan. This Is How to Write for Them | by Rita Kind-Envy | Oct, 2022 | UX Planet](https://uxplanet.org/people-dont-read-online-they-scan-this-is-how-to-write-for-them-80a75069c14e)
+  - [x] [10 best practices to containerize Node.js web applications with Docker | Snyk Blog](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
 
 
 ## 画像処理とクリエイティブコーディング
