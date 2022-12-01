@@ -82,6 +82,7 @@
   - [x] [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
   - [x] [JavaScriptの概念たち (前編) - Qiita](https://qiita.com/tsin1rou/items/90576b6c00b895478610)
   - [x] [JavaScriptの概念たち (後編) - Qiita](https://qiita.com/tsin1rou/items/b30885b189a8ec596c72)
+  - [x] [JavaScriptによるマルチスレッドの実現‐Concurrent.Threadの裏側](https://www.infoq.com/jp/articles/js_multithread_2/)
   - [x] [What Is JavaScript Made Of? — Overreacted](https://overreacted.io/what-is-javascript-made-of/)
   - [x] [Node.jsへのコントリビュート解説、そしてOSSへ貢献するということ - 別にしんどくないブログ](https://shisama.hatenablog.com/entry/2019/12/04/204400)
   - [x] [JavaScriptの仕組み：イベントループと非同期プログラミングの台頭+ async / awaitでコーディングを改善する5つの方法](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5#4156)
