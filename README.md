@@ -55,6 +55,7 @@
 - リンク
   - [x] [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
   - [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
+  - [x] [プログラミング言語の入門が終わったら何の勉強をすればいいの？ - きしだのHatena](https://nowokay.hatenablog.com/entry/2022/11/27/195003)
 
 
 ## データ構造とアルゴリズム
