@@ -610,3 +610,4 @@
   - [x] [スタートアップ人事評価制度の「超」基本 | Coral Capital](https://coralcap.co/2022/10/employee-evaluation-system/)
   - [x] [人材マネジメント🤯 | POSTD](https://postd.cc/managing-people/)
   - [x] [The things I love about Google are the things I dislike about Google | by Carlos Arguelles | Oct, 2022 | Medium](https://carloarg02.medium.com/the-things-i-love-about-google-are-the-things-i-dislike-about-google-b539be11ab0b)
+  - [x] [マネージャー、いないと無理だったので、またつくりました - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2022/11/04/173000)
