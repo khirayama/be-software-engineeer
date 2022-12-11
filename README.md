@@ -614,3 +614,4 @@
   - [x] [The things I love about Google are the things I dislike about Google | by Carlos Arguelles | Oct, 2022 | Medium](https://carloarg02.medium.com/the-things-i-love-about-google-are-the-things-i-dislike-about-google-b539be11ab0b)
   - [x] [マネージャー、いないと無理だったので、またつくりました - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2022/11/04/173000)
   - [x] [[フリーザは「素晴らしいリーダー」なのか。人材・組織の専門家が本気で検証してみた]｜ 【公式】ドラゴンボールオフィシャルサイト](https://dragon-ball-official.com/news/01_1486.html)
+  - [x] [外資系と日系企業、マーケター育成で優れているのはどちら？【音部で壁打ち】 | Agenda note (アジェンダノート)](https://agenda-note.com/brands/detail/id=5345)
