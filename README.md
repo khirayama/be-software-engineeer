@@ -204,6 +204,8 @@
   - [x] [Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word] — Smashing Magazine](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
   - [x] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
   - [x] [世界一わかりやすいSEOの教科書｜マルーン｜note](https://note.mu/maroooooooooon/n/ned8ba77fc27d)
+  - [x] [検索の仕組み – Google 検索の仕組み](https://www.google.com/intl/ja/search/howsearchworks/how-search-works/)
+  - [x] [Google 検索結果にサイトを表示する方法 | Google 検索セントラル  |  ドキュメント  |  Google Developers](https://developers.google.com/search/docs/fundamentals/get-on-google?hl=ja)
   - [x] [【翻訳】マテリアルデザイン - モーションデザイン｜Iori Iwaki｜note](https://note.mu/ioriiwaki/m/mf7bef05b0bd1)
   - [x] [[翻訳記事]マイクロフロントエンド - マイクロサービスのフロントエンドへの応用](https://micro-frontends-japanese.org/)
   - [x] [Flutter - Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/)
