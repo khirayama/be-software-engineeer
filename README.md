@@ -240,6 +240,7 @@
   - [x] [People Don’t Read Online—They Scan. This Is How to Write for Them | by Rita Kind-Envy | Oct, 2022 | UX Planet](https://uxplanet.org/people-dont-read-online-they-scan-this-is-how-to-write-for-them-80a75069c14e)
   - [x] [10 best practices to containerize Node.js web applications with Docker | Snyk Blog](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
   - [x] [門脇 敦司さんはTwitterを使っています: 「1/ GitHub 元CTO「マイクロサービスにしたことがアーキテクチャ上の最大のミスだった」 （※少しマニアックな内容ですが、個人的には面白いと感じたので載せます→） https://t.co/SCZfc2J8vI」 / Twitter](https://mobile.twitter.com/at_sushi_/status/1592673880313057280)
+  - [x] [規模感の違う脱レガシーで必要なこと - memo_md](https://mugi1.hateblo.jp/entry/2022/12/15/000000)
 
 
 ## 画像処理とクリエイティブコーディング
