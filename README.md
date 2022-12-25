@@ -621,3 +621,4 @@
   - [x] [外資系と日系企業、マーケター育成で優れているのはどちら？【音部で壁打ち】 | Agenda note (アジェンダノート)](https://agenda-note.com/brands/detail/id=5345)
   - [x] [開発組織を改善していくための技術｜BTO｜note](https://note.com/bto/n/n7bb28ad27d2e)
   - [x] [1年で内定承諾率が8倍に。エンジニア採用は「開発者体験」と「候補者体験」を良くすれば上手くいく！ - Uzabase for Engineers](https://tech.uzabase.com/entry/newspicks-engineer-2022)
+  - [x] [もっと成長したいソフトウェアエンジニアへ、出会いと経験で自分を変える「キャリアの螺旋」の歩み方 - Findy Engineer Lab - ファインディエンジニアラボ](https://engineer-lab.findy-code.io/career-spiral)
