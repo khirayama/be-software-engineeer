@@ -56,6 +56,7 @@
   - [x] [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
   - [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
   - [x] [プログラミング言語の入門が終わったら何の勉強をすればいいの？ - きしだのHatena](https://nowokay.hatenablog.com/entry/2022/11/27/195003)
+  - [x] [TeachYourselfCS-JP/日本語.md at main · ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP/blob/main/%E6%97%A5%E6%9C%AC%E8%AA%9E.md)
 
 
 ## データ構造とアルゴリズム
