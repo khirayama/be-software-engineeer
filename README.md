@@ -148,6 +148,7 @@
   - [x] [ハードウェアの仕組みとソフトウェア処理 マイコンの動作を理解する｜Tech Village （テックビレッジ） CQ出版株式会社](http://www.kumikomi.net/archives/2009/11/post_23.php)
   - [x] [なぜCPUにはL1・L2・L3というように複数のキャッシュレベルがあるのか？ - GIGAZINE](https://gigazine.net/news/20160912-cpu-cache-level/)
   - [x] [コンピューターはどうやって乱数を生み出しているのか？ - GIGAZINE](https://gigazine.net/news/20210925-random-generate/)
+  - [x] [コンパイラが作ったバイナリをつなぎ合わせるプログラム　「lld」の作者が語る、リンカの仕組み - ログミーTech](https://logmi.jp/tech/articles/325775)
 
 
 ## 通信、ネットワークとインターネット
