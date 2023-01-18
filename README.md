@@ -149,6 +149,7 @@
   - [x] [なぜCPUにはL1・L2・L3というように複数のキャッシュレベルがあるのか？ - GIGAZINE](https://gigazine.net/news/20160912-cpu-cache-level/)
   - [x] [コンピューターはどうやって乱数を生み出しているのか？ - GIGAZINE](https://gigazine.net/news/20210925-random-generate/)
   - [x] [コンパイラが作ったバイナリをつなぎ合わせるプログラム　「lld」の作者が語る、リンカの仕組み - ログミーTech](https://logmi.jp/tech/articles/325775)
+  - [x] [キャッシュアルゴリズムの比較 - falsandtruのメモ帳](https://falsandtru.hatenablog.com/entry/compare-cache-algorithms)
 
 
 ## 通信、ネットワークとインターネット
