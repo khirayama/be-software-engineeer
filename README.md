@@ -245,6 +245,8 @@
   - [x] [門脇 敦司さんはTwitterを使っています: 「1/ GitHub 元CTO「マイクロサービスにしたことがアーキテクチャ上の最大のミスだった」 （※少しマニアックな内容ですが、個人的には面白いと感じたので載せます→） https://t.co/SCZfc2J8vI」 / Twitter](https://mobile.twitter.com/at_sushi_/status/1592673880313057280)
   - [x] [規模感の違う脱レガシーで必要なこと - memo_md](https://mugi1.hateblo.jp/entry/2022/12/15/000000)
   - [x] [技術顧問との1on1で見積もりには3種類あることを教えてもらった - Qiita](https://qiita.com/miyarappo/items/e27f6e8774bdb587e00d)
+  - [x] [フィッツの法則と、UXにおけるその応用 – U-Site](https://u-site.jp/alertbox/fitts-law)
+  - [x] [無限スクロール：利用すべきとき、避けるべきとき – U-Site](https://u-site.jp/alertbox/infinite-scrolling-tips)
 
 
 ## 画像処理とクリエイティブコーディング
