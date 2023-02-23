@@ -53,6 +53,7 @@
   - [ ] [入門 コンピュータ科学　ITを支える技術と理論の基礎知識 (アスキードワンゴ) | Ｊ．Ｇｌｅｎｎ Ｂｒｏｏｋｓｈｅａｒ, 神林 靖, 長尾 高弘 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B06XVXB2KH/)
   - [ ] [コンピュータシステムの基礎　第18版 | アイテックIT人材教育研究部 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B09G6QDRNM/)
 - リンク
+  - [ ] [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
   - [x] [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
   - [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
   - [x] [プログラミング言語の入門が終わったら何の勉強をすればいいの？ - きしだのHatena](https://nowokay.hatenablog.com/entry/2022/11/27/195003)
