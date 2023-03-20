@@ -334,6 +334,7 @@
   - [x] [How Google Works (日本経済新聞出版) | エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00OJVMK5O)
   - [x] [ワーク・ルールズ！―君の生き方とリーダーシップを変える | ラズロ・ボック, 鬼澤 忍, 矢羽野 薫 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B010UV1QTW)
 - リンク
+  - [x] [コードレビューの生産性を上げるためのTips | Offers Tech Blog](https://zenn.dev/offers/articles/20230110-my_code_review_knowhow)
   - [x] [AddyOsmani.com - Software Engineering Insights From 10 Years At Google](https://web.archive.org/web/20220519020040/https://addyosmani.com/blog/software-eng-10-years/)
   - [x] [AddyOsmani.com - Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR2pGD3zoxb1FCQc3FjdwusZ7_C-qU0INq-PljRwZafasfQcDaY5dOC-pOA)
   - [x] [翻訳記事: 私がシリコンバレーで3000万円の年収オファーをどうやって獲得したのか｜西嶋悠貴｜note](https://note.com/yukinishijima/n/n8de870690721)
