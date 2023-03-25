@@ -632,3 +632,6 @@
   - [x] [開発組織を改善していくための技術｜BTO｜note](https://note.com/bto/n/n7bb28ad27d2e)
   - [x] [1年で内定承諾率が8倍に。エンジニア採用は「開発者体験」と「候補者体験」を良くすれば上手くいく！ - Uzabase for Engineers](https://tech.uzabase.com/entry/newspicks-engineer-2022)
   - [x] [もっと成長したいソフトウェアエンジニアへ、出会いと経験で自分を変える「キャリアの螺旋」の歩み方 - Findy Engineer Lab - ファインディエンジニアラボ](https://engineer-lab.findy-code.io/career-spiral)
+  - [x] [ソニーグループ前社長 平井一夫さんに聞く リーダーの要件｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu972/)
+  - [x] [ソニーグループ前社長 平井一夫さんに聞く 強力なチームの作り方とは｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu973/)
+  - [x] [ソニーグループ前社長 平井一夫さん 社長を退任した4つの理由 今はなにしてる？｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu976/)
