@@ -637,3 +637,4 @@
   - [x] [ソニーグループ前社長 平井一夫さん 社長を退任した4つの理由 今はなにしてる？｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu976/)
   - [x] [南場智子 DeNA会長「みんなに頼る」 失敗で気づいた理想のリーダーとは｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu1030/)
   - [x] [DeNA会長 南場智子さん「ベイスターズ運営はチームづくりの成功例」｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu1031/)
+  - [x] [Google の事例とともに考える採用](https://zenn.dev/google_cloud_jp/articles/e69eb1def68a09)
