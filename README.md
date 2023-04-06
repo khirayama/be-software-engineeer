@@ -641,3 +641,4 @@
   - [x] [DeNA会長 南場智子さん「ベイスターズ運営はチームづくりの成功例」｜NHK就活応援ニュースゼミ](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu1031/)
   - [x] [Google の事例とともに考える採用](https://zenn.dev/google_cloud_jp/articles/e69eb1def68a09)
   - [x] [【CTO&VPoEに聞く】スループットを最大化させる開発組織とは ~開発組織に副業は必要か!?~ vol.1｜株式会社overflow｜note](https://note.com/overflow_inc/n/n3f43ca4117d0)
+  - [x] [結局は、人 / In the end, people value - Speaker Deck](https://speakerdeck.com/i35_267/in-the-end-people-value)
