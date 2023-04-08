@@ -643,3 +643,4 @@
   - [x] [【CTO&VPoEに聞く】スループットを最大化させる開発組織とは ~開発組織に副業は必要か!?~ vol.1｜株式会社overflow｜note](https://note.com/overflow_inc/n/n3f43ca4117d0)
   - [x] [結局は、人 / In the end, people value - Speaker Deck](https://speakerdeck.com/i35_267/in-the-end-people-value)
   - [x] [Brandon K. Hill | CEO of btrax 🇺🇸x🇯🇵/2さんはTwitterを使っています: 「【サイモン・シネック第三弾】組織にはなぜパーパスが重要なのか？お金を儲けるだけが目的の会社や組織はなぜ弱いのかを例え話を使ってわかりやすく説明してくれてる。これを見てやっとビジョンやバリュー、パーパースの重要性が実感できた。 https://t.co/gUCH1DrGYe」 / Twitter](https://twitter.com/BrandonKHill/status/1622734633334095872)
+  - [x] [エンジニアとビジネスの距離感の難しさ｜ばんくし｜note](https://note.com/vaaaaanquish/n/n22d5e8b067d9)
