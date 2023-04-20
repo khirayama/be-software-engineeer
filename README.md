@@ -58,6 +58,7 @@
   - [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
   - [x] [プログラミング言語の入門が終わったら何の勉強をすればいいの？ - きしだのHatena](https://nowokay.hatenablog.com/entry/2022/11/27/195003)
   - [x] [TeachYourselfCS-JP/日本語.md at main · ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP/blob/main/%E6%97%A5%E6%9C%AC%E8%AA%9E.md)
+  - [x] [「思うに、情報科学科は計算と計算機とは何かを学ぶ場所であった。理論的(チューリングマシン、ラムダ計算、述語論理、計算複雑性など)、構成的(プロセッサ、OS、連続系など)、観察的(言語処理、人工知能、生命情報など)と感じていて、一貫して計算とは何かを扱っていることに卒業する直前に気づいた」 / Twitter](https://twitter.com/unnonouno/status/1648630323973062662)
 
 
 ## データ構造とアルゴリズム
