@@ -158,6 +158,7 @@
   - [x] [キャッシュアルゴリズムの比較 - falsandtruのメモ帳](https://falsandtru.hatenablog.com/entry/compare-cache-algorithms)
   - [x] [OpenGLの後継3DグラフィックスAPI「Vulkan」"ベンダーに依存しないGPU操作"を叶える仕組み - ログミーTech](https://logmi.jp/tech/articles/326259)
   - [x] [マルチスレッドのコンテキスト切り替えに伴うコスト - naoyaのはてなダイアリー](https://naoya-2.hatenadiary.org/entry/20071010/1192040413)
+  - [x] [ファイル操作とファイル・システム](https://ie.u-ryukyu.ac.jp/~kono/lecture/os/ex/file/file.html)
 
 
 ## 通信、ネットワークとインターネット
