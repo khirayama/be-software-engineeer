@@ -301,6 +301,7 @@
   - [ ] [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
   - [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
   - [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
+  - [x] [GoogleのProduct Managerになりました｜natsumi.kondo｜note](https://note.com/723kondo/n/nada75462d544)
 
 
 ## 仕組みとチュートリアル
