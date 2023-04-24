@@ -335,6 +335,7 @@
   - [ ] [Hecto: Build your own text editor in Rust – Philipp Flenker – Engineering Manager](https://www.philippflenker.com/hecto/)
   - [ ] [はじめに - Rustで始める自作組込みOS入門](https://garasubo.github.io/embedded-book/1_intro/index.html)
   - [ ] [Introduction - Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
+  - [ ] [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
   - [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
   - [x] [minipack](https://github.com/ronami/minipack)
   - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
