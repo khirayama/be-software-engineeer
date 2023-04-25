@@ -660,3 +660,4 @@
   - [x] [自信は本当に必要なのか。男女のちがいから考える行動と自信の関係 | Q by Livesense](https://q.livesense.co.jp/2021/12/15/1375.html)
   - [x] [コラム - グーグルのクラウドを支えるテクノロジー | 第146回　Googleにおける開発者の生産性に影響する要因の分析（パート2）｜CTC教育サービス 研修/トレーニング](https://www.school.ctc-g.co.jp/columns/nakai2/nakai2146.html)
   - [x] [人的資本経営とは？その概要とメリット、デメリットについて解説](https://www.manegy.com/news/detail/6925/)
+  - [x] [第６回エンジニアリングマネージャーの２つの大きな仕事。 | シリコンの谷は、いま。2023 | ほぼ日刊イトイ新聞](https://www.1101.com/n/s/siliconvalley2023/2023-04-24.html)
