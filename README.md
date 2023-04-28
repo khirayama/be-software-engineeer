@@ -264,6 +264,7 @@
   - [x] [実装例から見る React のテストの書き方 - Cybozu Inside Out | サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2022/08/29/110000)
   - [x] [フロントエンドにおけるテスト駆動開発の実践と概説](https://zenn.dev/sum0/articles/07535a9cdd4a62)
   - [x] [ソフトウェアアーキテクチャの基礎: Software Architecture in a Nutshell - Speaker Deck](https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell)
+  - [x] [「【保存版】ユーザー行動分析入門マニュアル 📈 最近のSEOにはユーザー行動が大事って言われているけれど… 🤔どんなユーザー行動が大事なの？ 📊どんな分析をすればいいの？ 📋どんな施策を打てばいいのーーー！？！ そんな方に役立つ、「ユーザー行動分析の進め方」まとめました👍 https://t.co/0O1whDGWTt」 / Twitter](https://twitter.com/_jade_kk/status/1643026392261459972?t=ACoR5FZBcsJuipjp5EvIzA&s=19)
 
 
 ## 画像処理とクリエイティブコーディング
