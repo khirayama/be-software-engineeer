@@ -265,6 +265,7 @@
   - [x] [フロントエンドにおけるテスト駆動開発の実践と概説](https://zenn.dev/sum0/articles/07535a9cdd4a62)
   - [x] [ソフトウェアアーキテクチャの基礎: Software Architecture in a Nutshell - Speaker Deck](https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell)
   - [x] [「【保存版】ユーザー行動分析入門マニュアル 📈 最近のSEOにはユーザー行動が大事って言われているけれど… 🤔どんなユーザー行動が大事なの？ 📊どんな分析をすればいいの？ 📋どんな施策を打てばいいのーーー！？！ そんな方に役立つ、「ユーザー行動分析の進め方」まとめました👍 https://t.co/0O1whDGWTt」 / Twitter](https://twitter.com/\_jade\_kk/status/1643026392261459972?t=ACoR5FZBcsJuipjp5EvIzA&s=19)
+  - [x] [アプリはサービス利用や購買行動にどう影響する？ - Think with Google](https://www.thinkwithgoogle.com/intl/ja-jp/marketing-strategies/app-and-mobile/app-usage-situatin2/)
 
 
 ## 画像処理とクリエイティブコーディング
