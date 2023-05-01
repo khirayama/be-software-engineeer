@@ -120,7 +120,7 @@
 
 - 書籍
 - リンク
-  - [ ] [Linux システムコール 徹底入門 - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2020/01/05/191221)
+  - [ ] [Linux システムコール 徹底入門](https://www.kimullaa.com/posts/202001051012/)
   - [ ] [Linux プロセス管理を理解したい - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2020/04/07/114746)
   - [ ] [C言語がコンパイル~実行されるまで - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/181744)
   - [ ] [Linux ファイルシステム 徹底入門 - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/130347)
