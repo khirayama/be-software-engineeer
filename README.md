@@ -219,6 +219,7 @@
   - [x] [Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word] — Smashing Magazine](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
   - [x] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
   - [x] [世界一わかりやすいSEOの教科書｜マルーン｜note](https://note.mu/maroooooooooon/n/ned8ba77fc27d)
+  - [x] [【詳細解説】ユーザー行動分析していますか？ | ISM LT祭り2022 - ブログ - 株式会社JADE](https://blog.ja.dev/entry/blog/2023/01/10/search-visitor-behavior-analysis)
   - [x] [検索の仕組み – Google 検索の仕組み](https://www.google.com/intl/ja/search/howsearchworks/how-search-works/)
   - [x] [Google 検索に関するドキュメント | Google 検索セントラル  |  Google Developers](https://developers.google.com/search/docs?hl=ja)
   - [x] [【翻訳】マテリアルデザイン - モーションデザイン｜Iori Iwaki｜note](https://note.mu/ioriiwaki/m/mf7bef05b0bd1)
