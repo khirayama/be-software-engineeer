@@ -240,6 +240,7 @@
   - [x] [2015年Webサーバアーキテクチャ序論 - ゆううきブログ](https://blog.yuuk.io/entry/2015-webserver-architecture)
   - [x] [Stop using Page Objects and Start using App Actions](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/)
   - [x] [UXリサーチのための定量的なデータ分析 | UX MILK](https://uxmilk.jp/90777)
+  - [x] [SEOコンサルタントやデータアナリスト自身による、UX デザイナー視点での UI 改善 - ブログ - 株式会社JADE](https://blog.ja.dev/entry/blog/2023/03/24/how-to-conduct-usability-testing-easily)
   - [x] [What is Quantitative UX Research? [Beginner’s Guide]](https://careerfoundry.com/en/blog/ux-design/quantitative-ux-research/)
   - [x] [microfrontends/english.md at master · phodal/microfrontends](https://github.com/phodal/microfrontends/blob/master/english.md)
   - [x] [L7ロードバランサとL4ロードバランサ - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/135430)
