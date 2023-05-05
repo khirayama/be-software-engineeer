@@ -269,6 +269,7 @@
   - [x] [「【保存版】ユーザー行動分析入門マニュアル 📈 最近のSEOにはユーザー行動が大事って言われているけれど… 🤔どんなユーザー行動が大事なの？ 📊どんな分析をすればいいの？ 📋どんな施策を打てばいいのーーー！？！ そんな方に役立つ、「ユーザー行動分析の進め方」まとめました👍 https://t.co/0O1whDGWTt」 / Twitter](https://twitter.com/\_jade\_kk/status/1643026392261459972?t=ACoR5FZBcsJuipjp5EvIzA&s=19)
   - [x] [アプリはサービス利用や購買行動にどう影響する？ - Think with Google](https://www.thinkwithgoogle.com/intl/ja-jp/marketing-strategies/app-and-mobile/app-usage-situatin2/)
   - [x] [30分でわかるデータ指向アプリケーションデザイン - Data Engineering Study #18 - Speaker Deck](https://speakerdeck.com/xerial/30fen-dewakarudetazhi-xiang-apurikesiyondezain-data-engineering-study-number-18)
+  - [x] [[シリーズ]A/Bテスト改善 -A/BテストのPost analysisでインサイトを得る方法-｜Mercari Analytics Blog｜note](https://note.com/mercari_data/n/n8877a6cdfef0)
 
 
 ## 画像処理とクリエイティブコーディング
