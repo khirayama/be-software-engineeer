@@ -270,6 +270,7 @@
   - [x] [アプリはサービス利用や購買行動にどう影響する？ - Think with Google](https://www.thinkwithgoogle.com/intl/ja-jp/marketing-strategies/app-and-mobile/app-usage-situatin2/)
   - [x] [30分でわかるデータ指向アプリケーションデザイン - Data Engineering Study #18 - Speaker Deck](https://speakerdeck.com/xerial/30fen-dewakarudetazhi-xiang-apurikesiyondezain-data-engineering-study-number-18)
   - [x] [[シリーズ]A/Bテスト改善 -A/BテストのPost analysisでインサイトを得る方法-｜Mercari Analytics Blog｜note](https://note.com/mercari_data/n/n8877a6cdfef0)
+  - [x] [A/Bテストに用いられれる統計的検定手法（ロジック）のまとめ＆比較 | Ad-Tech Lab Blog](https://blog.recruit.co.jp/rco/ab-test-logic/)
 
 
 ## 画像処理とクリエイティブコーディング
