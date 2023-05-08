@@ -289,6 +289,7 @@
 - リンク
   - [x] [セキュリティ視点からの JWT 入門 - blog of morioka12](https://scgajge12.hatenablog.com/entry/jwt_security)
   - [x] [2020年版 チーム内勉強会資料その1 : JSON Web Token - r-weblife](https://ritou.hatenablog.com/entry/2020/06/08/050000)
+  - [x] [フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか - Qiita](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)
 
 
 ## 機械学習
