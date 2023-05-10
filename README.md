@@ -672,3 +672,4 @@
   - [x] [人的資本経営とは？その概要とメリット、デメリットについて解説](https://www.manegy.com/news/detail/6925/)
   - [x] [第６回エンジニアリングマネージャーの２つの大きな仕事。 | シリコンの谷は、いま。2023 | ほぼ日刊イトイ新聞](https://www.1101.com/n/s/siliconvalley2023/2023-04-24.html)
   - [x] [失敗から学ぶエンジニア組織論 - Speaker Deck](https://speakerdeck.com/bto/shi-bai-karaxue-huensiniazu-zhi-lun)
+  - [x] [第７回一年中人事異動がある環境で、どうチームを作っていくか？ | シリコンの谷は、いま。2023 | ほぼ日刊イトイ新聞](https://www.1101.com/n/s/siliconvalley2023/2023-05-08.html)
