@@ -272,6 +272,7 @@
   - [x] [[シリーズ]A/Bテスト改善 -A/BテストのPost analysisでインサイトを得る方法-｜Mercari Analytics Blog｜note](https://note.com/mercari_data/n/n8877a6cdfef0)
   - [x] [A/Bテストに用いられれる統計的検定手法（ロジック）のまとめ＆比較 | Ad-Tech Lab Blog](https://blog.recruit.co.jp/rco/ab-test-logic/)
   - [x] [検索者が「検索意図が満たされた」と判断する基準](https://www.bodhi.co.jp/criteria-for-ending-the-search)
+  - [x] [ビジネスの構造を扱うアーキテクチャとユーザとの接点を扱うアーキテクチャ #builderscon - Speaker Deck](https://speakerdeck.com/a_suenami/hisinesufalsegou-zao-woxi-uakitekutiyatoyusatofalsejie-dian-woxi-uakitekutiya-number-builderscon)
 
 
 ## 画像処理とクリエイティブコーディング
