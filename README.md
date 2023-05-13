@@ -674,3 +674,4 @@
   - [x] [第６回エンジニアリングマネージャーの２つの大きな仕事。 | シリコンの谷は、いま。2023 | ほぼ日刊イトイ新聞](https://www.1101.com/n/s/siliconvalley2023/2023-04-24.html)
   - [x] [失敗から学ぶエンジニア組織論 - Speaker Deck](https://speakerdeck.com/bto/shi-bai-karaxue-huensiniazu-zhi-lun)
   - [x] [第７回一年中人事異動がある環境で、どうチームを作っていくか？ | シリコンの谷は、いま。2023 | ほぼ日刊イトイ新聞](https://www.1101.com/n/s/siliconvalley2023/2023-05-08.html)
+  - [x] [未来を描く「SINIC理論」 | 経営の羅針盤-SINIC理論 | 企業理念経営について | オムロン](https://www.omron.com/jp/ja/about/corporate/vision/sinic/theory.html#top)
