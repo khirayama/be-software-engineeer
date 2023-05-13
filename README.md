@@ -274,6 +274,7 @@
   - [x] [検索者が「検索意図が満たされた」と判断する基準](https://www.bodhi.co.jp/criteria-for-ending-the-search)
   - [x] [ビジネスの構造を扱うアーキテクチャとユーザとの接点を扱うアーキテクチャ #builderscon - Speaker Deck](https://speakerdeck.com/a_suenami/hisinesufalsegou-zao-woxi-uakitekutiyatoyusatofalsejie-dian-woxi-uakitekutiya-number-builderscon)
   - [x] [Design Doc の書き方 / How to Write a Design Doc (Ja ver.) - Speaker Deck](https://speakerdeck.com/munetoshi/how-to-write-a-design-doc-ja-ver-dot)
+  - [x] [【第1回・前編】 エンジニア和田卓人の今を形作る技術 | GeeklyMedia(ギークリーメディア)](https://www.geekly.co.jp/column/cat-geeklycolumn/specialtalk_ikyu_wada_1/)
 
 ## 画像処理とクリエイティブコーディング
 
