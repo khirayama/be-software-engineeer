@@ -680,3 +680,4 @@
   - [x] [未来を描く「SINIC理論」 | 経営の羅針盤-SINIC理論 | 企業理念経営について | オムロン](https://www.omron.com/jp/ja/about/corporate/vision/sinic/theory.html#top)
   - [x] [子育てありきのエンジニア業 - HDE BLOG](https://blog.hde.co.jp/entry/2015/03/30/103000)
   - [x] [コーチングのエビデンス｜みやもとかずのり](https://note.com/miyamotokazunori/n/n74c6de944d8c)
+  - [x] [これからエンジニア採用に関わる人に伝えたい、採用面接・面談を通じて身につく5つのスキルや考え方｜Satoshi Yoshinaga](https://note.com/satoshi147/n/n31807c781ce0)
