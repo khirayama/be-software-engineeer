@@ -277,6 +277,8 @@
   - [x] [Design Doc の書き方 / How to Write a Design Doc (Ja ver.) - Speaker Deck](https://speakerdeck.com/munetoshi/how-to-write-a-design-doc-ja-ver-dot)
   - [x] [【第1回・前編】 エンジニア和田卓人の今を形作る技術 | GeeklyMedia(ギークリーメディア)](https://www.geekly.co.jp/column/cat-geeklycolumn/specialtalk_ikyu_wada_1/)
   - [x] [【第1回・後編】エンジニア和田卓人のこれからを形作る技術 | GeeklyMedia(ギークリーメディア)](https://www.geekly.co.jp/column/cat-geeklycolumn/specialtalk_ikyu_wada_2/)
+  - [x] [Speaker Deck Pro | Share Your Presentations Online - Speaker Deck](https://speakerdeck.com/pro)
+
 
 ## 画像処理とクリエイティブコーディング
 
