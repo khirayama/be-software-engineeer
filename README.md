@@ -167,6 +167,12 @@
 
 - 書籍
 - リンク
+  - [ ] [Web のつくりかた: ソフトウェアエンジニアリングと雰囲気で理解する Web 標準とブラウザのつくりかた](https://hayato.io/2017/making-web/)
+  - [ ] [ブラウザのしくみ: データ構造とアルゴリズムと雰囲気で理解する DOM と Shadow DOM](https://hayato.io/2017/dom/)
+  - [ ] [The Chromium Projects - For Developers](https://www.chromium.org/developers)
+  - [ ] [大学の実験でChromiumに勝手に機能を追加してみた話](http://akaria.hatenablog.com/entry/2017/12/15/144459)
+  - [ ] [WebAssembly 開発環境構築の本](https://wasm-dev-book.netlify.com/webpack.html)
+  - [ ] [パケットを作るぞい](https://github.com/akakou/let-us-make-packets)
   - [x] [ウェブブラウザにバグ報告をするときにやること - ぱすたけ日記](https://blog.pastak.net/entry/2020/12/19/140000)
   - [x] [Web 技術の調査方法 | blog.jxck.io](https://blog.jxck.io/entries/2020-11-19/how-to-track-web-standards.html)
   - [x] [レンダリング パフォーマンス  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/?hl=ja)
@@ -187,12 +193,6 @@
   - [x] [Web のセマンティクスにおける Push と Pull | blog.jxck.io](https://blog.jxck.io/entries/2021-12-08/web-semantics-push-and-pull.html)
   - [x] [ブラウザの上でブラウザを動かす | shinyaigeek.dev](https://shinyaigeek.dev/post/browser-on-browser/)
   - [x] [アプリケーションエンジニアが知るべきDNSの基本/Basics_of_DNS_that_application_engineers_should_know - Speaker Deck](https://speakerdeck.com/mamy1326/basics-of-dns-that-application-engineers-should-know)
-  - [ ] [Web のつくりかた: ソフトウェアエンジニアリングと雰囲気で理解する Web 標準とブラウザのつくりかた](https://hayato.io/2017/making-web/)
-  - [ ] [ブラウザのしくみ: データ構造とアルゴリズムと雰囲気で理解する DOM と Shadow DOM](https://hayato.io/2017/dom/)
-  - [ ] [The Chromium Projects - For Developers](https://www.chromium.org/developers)
-  - [ ] [大学の実験でChromiumに勝手に機能を追加してみた話](http://akaria.hatenablog.com/entry/2017/12/15/144459)
-  - [ ] [WebAssembly 開発環境構築の本](https://wasm-dev-book.netlify.com/webpack.html)
-  - [ ] [パケットを作るぞい](https://github.com/akakou/let-us-make-packets)
   - [x] [第1章 進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし、HTTP/3の基本を知る | gihyo.jp](https://gihyo.jp/admin/serial/01/http3/0001)
   - [x] [Webpagetestから始める継続的パフォーマンス改善](http://azu.github.io/slide/2018/roppongijs/webpagetest-performance.html)
   - [x] [なぜMACアドレスとIPアドレスは両方必要なのか？](https://zenn.dev/haan/articles/d0eba891974649)
