@@ -384,6 +384,7 @@
   - [x] [失敗の本質 | 戸部 良一, 寺本 義也, 鎌田 伸一, 杉之尾 孝生, 村井 友秀, 野中 郁次郎 | 軍事 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00BN16XX8)
   - [x] [ＧＲＥＡＴ　ＢＯＳＳ（グレートボス）　―シリコンバレー式ずけずけ言う力 eBook : キム・スコット, 関 美和: 本](https://www.amazon.co.jp/dp/B07NMKK3L3)
   - [x] [WORK DESIGN(ワークデザイン) | イリス・ボネット, 池村千秋 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07G2YDSJ2)
+  - [x] [THE TEAM 5つの法則 (NewsPicks Book) | 麻野耕司 | 実践経営・リーダーシップ | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07PZB9DTK)
 - リンク
   - [x] [『GE 巨人の復活』を読んだ](http://xaro.hatenablog.jp/entry/2017/08/06/090133#f-768af298)
   - [x] [126: Anti-Democratic Product Management (higepon)](http://rebuild.fm/126/)
