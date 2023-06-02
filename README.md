@@ -690,3 +690,4 @@
   - [x] [これからエンジニア採用に関わる人に伝えたい、採用面接・面談を通じて身につく5つのスキルや考え方｜Satoshi Yoshinaga](https://note.com/satoshi147/n/n31807c781ce0)
   - [x] [プロダクトマネージャーという仕事｜Aki Hirohara](https://note.com/akihirohara/n/n6e995f645e49)
   - [x] [マネージャーやリーダーからチームメンバーへの仕事の任せ方、裁量の渡し方](https://aloerina01.github.io/blog/2023-05-22-1)
+  - [x] [「推測するな、計測せよ」 〜小さく始める生産性可視化と分析〜 - Speaker Deck](https://speakerdeck.com/naopr/tui-ce-suruna-ji-ce-seyo-xiao-sakushi-merusheng-chan-xing-ke-shi-hua-tofen-xi)
