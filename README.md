@@ -313,7 +313,7 @@
 ## 面接対策
 
 - 書籍
-  - [ ] [システム設計の面接試験 | アレックス・シュウ |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4802614063)
+  - [x] [システム設計の面接試験 | アレックス・シュウ |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4802614063)
 - リンク
   - [ ] [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/courses/system-design)
   - [ ] [system-design-primer/README-ja.md at master · donnemartin/system-design-primer · GitHub](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
