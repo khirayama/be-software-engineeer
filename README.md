@@ -390,6 +390,7 @@
   - [x] [スタッフエンジニア　マネジメントを超えるリーダーシップ | Will Larson, 長谷川 圭, 増井 雄一郎 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B0C231J7FC)
   - [x] [Who You Are（フーユーアー）君の真の言葉と行動こそが困難を生き抜くチームをつくる eBook : ベン・ホロウィッツ, 浅枝 大志, 関 美和: Kindleストア](https://www.amazon.co.jp/dp/B086KX8LHZ)
   - [x] [DIE WITH ZERO　人生が豊かになりすぎる究極のルール eBook : ビル・パーキンス, 児島 修: 本](https://www.amazon.co.jp/dp/B08K88Z2XR)
+  - [x] [経営×人材の超プロが教える人を選ぶ技術 | 小野壮彦 | メンタリング・コーチング | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B0BMK7JRR9)
 - リンク
   - [x] [『GE 巨人の復活』を読んだ](http://xaro.hatenablog.jp/entry/2017/08/06/090133#f-768af298)
   - [x] [126: Anti-Democratic Product Management (higepon)](http://rebuild.fm/126/)
