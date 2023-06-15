@@ -375,6 +375,7 @@
   - [x] [AddyOsmani.com - Software Engineering Insights From 10 Years At Google](https://web.archive.org/web/20220519020040/https://addyosmani.com/blog/software-eng-10-years/)
   - [x] [AddyOsmani.com - Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR2pGD3zoxb1FCQc3FjdwusZ7_C-qU0INq-PljRwZafasfQcDaY5dOC-pOA)
   - [x] [翻訳記事: 私がシリコンバレーで3000万円の年収オファーをどうやって獲得したのか｜西嶋悠貴｜note](https://note.com/yukinishijima/n/n8de870690721)
+  - [x] [コードレビュー開発者ガイド | google-eng-practices-ja](https://fujiharuka.github.io/google-eng-practices-ja/ja/review/)
 
 
 
