@@ -378,7 +378,6 @@
   - [x] [コードレビュー開発者ガイド | google-eng-practices-ja](https://fujiharuka.github.io/google-eng-practices-ja/ja/review/)
 
 
-
 ## 組織マネジメント
 
 - 書籍
