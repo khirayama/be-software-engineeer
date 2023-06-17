@@ -699,3 +699,4 @@
   - [x] [マネージャーやリーダーからチームメンバーへの仕事の任せ方、裁量の渡し方](https://aloerina01.github.io/blog/2023-05-22-1)
   - [x] [「推測するな、計測せよ」 〜小さく始める生産性可視化と分析〜 - Speaker Deck](https://speakerdeck.com/naopr/tui-ce-suruna-ji-ce-seyo-xiao-sakushi-merusheng-chan-xing-ke-shi-hua-tofen-xi)
   - [x] [「会社が変わらないなら、どんどん辞めちゃえばいい」　及川卓也氏が“人材の流動性はあってしかるべき”と考える理由 - ログミーTech](https://logmi.jp/tech/articles/328704)
+  - [x] [配慮のできないエンジニアとの付き合い方 - Qiita](https://qiita.com/Yametaro/items/51e510d9219fa3ca4a09)
