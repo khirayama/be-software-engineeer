@@ -116,6 +116,7 @@
   - [x] [フロントエンドのデザインパターン](https://zenn.dev/morinokami/books/learning-patterns-1)
   - [x] [パッケージマネージャを自作するときに考えること - gfnweb](https://gfngfn.github.io/ja/posts/2023-02-15-on-creating-package-managers/)
   - [x] [フロントエンドエンジニアの友人と“型”で話がすれ違った原因 - Qiita](https://qiita.com/Kaito-Dogi/items/58023fc6e501f09a56ae)
+  - [x] [TypeScript 本体のコードを読んでみよう](https://zenn.dev/mizchi/articles/typescript-code-reading)
 
 
 ## コンピュータとOS
