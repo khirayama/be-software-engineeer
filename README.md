@@ -369,7 +369,7 @@
 ## ソフトスキルとキャリア
 
 - 書籍
-  - [ ] [O'Reilly Japan - リーダーの作法](https://www.oreilly.co.jp/books/9784873119892/)
+  - [x] [O'Reilly Japan - リーダーの作法](https://www.oreilly.co.jp/books/9784873119892/)
   - [x] [O'Reilly Japan - Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
   - [x] [How Google Works (日本経済新聞出版) | エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B00OJVMK5O)
   - [x] [ワーク・ルールズ！―君の生き方とリーダーシップを変える | ラズロ・ボック, 鬼澤 忍, 矢羽野 薫 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B010UV1QTW)
