@@ -288,6 +288,7 @@
   - [x] [WebエンジニアとWeb技術とシステムの話 (sadnessOjisanのWebサーバーアーキテクチャ進化論2023を読んだ感想) - inductor's blog](https://blog.inductor.me/entry/2023/04/03/153149)
   - [x] [ヒューマンインターフェイスガイドライン | Apple Developer Documentation](https://developer.apple.com/jp/design/human-interface-guidelines/)
   - [x] [Animate with springs - WWDC23 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2023/10158/)
+  - [x] [「推測するな、計測せよ」を推測するな - Qiita](https://qiita.com/e99h2121/items/e8f899756b21b0414835)
 
 
 ## 画像処理とクリエイティブコーディング
