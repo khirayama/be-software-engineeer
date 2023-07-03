@@ -175,7 +175,7 @@
   - [ ] [大学の実験でChromiumに勝手に機能を追加してみた話](http://akaria.hatenablog.com/entry/2017/12/15/144459)
   - [ ] [WebAssembly 開発環境構築の本](https://wasm-dev-book.netlify.com/webpack.html)
   - [ ] [akakou-docs/learn-packet: パケットを作るぞい（ ＾ω＾）](https://github.com/akakou-docs/learn-packet)
-  - [ ] [はじめに｜Goでゼロから作る 自作TCP/IPプロトコル サーバー](https://zenn.dev/kawa1214/books/5888c6b3554ffa/viewer/introduction)
+  - [x] [はじめに｜Goでゼロから作る 自作TCP/IPプロトコル サーバー](https://zenn.dev/kawa1214/books/5888c6b3554ffa/viewer/introduction)
   - [x] [ＬＡＮ技術研究室【ソケットの基礎（１）】](https://lantech.up.seesaa.net/subpage/socket1.html)
   - [x] [ウェブブラウザにバグ報告をするときにやること - ぱすたけ日記](https://blog.pastak.net/entry/2020/12/19/140000)
   - [x] [Web 技術の調査方法 | blog.jxck.io](https://blog.jxck.io/entries/2020-11-19/how-to-track-web-standards.html)
