@@ -64,6 +64,7 @@
 ## データ構造とアルゴリズム
 
 - 書籍
+  - [ ] [問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 eBook : 米田 優峻: 本](https://www.amazon.co.jp/dp/B09NXFQRD3)
 - リンク
   - [ ] [アルゴリズムとデータ構造 - Qiita](https://qiita.com/k0kubun/items/e7dbb4ca53f903a38c46)
   - [ ] [計算量オーダーの求め方を総整理！ 〜 どこから log が出て来るか 〜](https://qiita.com/drken/items/872ebc3a2b5caaa4a0d0)
