@@ -64,7 +64,7 @@
 ## データ構造とアルゴリズム
 
 - 書籍
-  - [ ] [パズルで鍛えるアルゴリズム力 eBook : 大槻 兼資: Kindleストア](https://www.amazon.co.jp/dp/B09X9VGG2Y)
+  - [x] [パズルで鍛えるアルゴリズム力 eBook : 大槻 兼資: Kindleストア](https://www.amazon.co.jp/dp/B09X9VGG2Y)
   - [x] [問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本 eBook : 米田 優峻: 本](https://www.amazon.co.jp/dp/B09NXFQRD3)
 - リンク
   - [ ] [アルゴリズムとデータ構造 - Qiita](https://qiita.com/k0kubun/items/e7dbb4ca53f903a38c46)
