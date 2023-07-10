@@ -141,7 +141,7 @@
   - [ ] [自作CPU & 自作OSをやっていく (2) - 64ビットRISC-Vの "Hello World" をRustで作った | 俺とお前とlaysakura](https://laysakura.github.io/2020/02/03/handcraft-cpu-os-2/)
   - [ ] [「マイコン入門!! 必携用語集」関連の最新 ニュース・レビュー・解説 記事 まとめ - ITmedia Keywords](https://www.itmedia.co.jp/keywords/edn_micro_mustvocab.html)
   - [ ] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
-  - [ ] [「マイコン入門!! 必携用語集」関連の最新 ニュース・レビュー・解説 記事 まとめ - ITmedia Keywords](https://www.itmedia.co.jp/keywords/edn_micro_mustvocab.html)
+  - [x] [「マイコン入門!! 必携用語集」関連の最新 ニュース・レビュー・解説 記事 まとめ - ITmedia Keywords](https://www.itmedia.co.jp/keywords/edn_micro_mustvocab.html)
   - [x] [マイコンの基本構成、動作 | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school/mcu-01-basic-structure-operation.html)
   - [x] [東京大学 カリキュラムと学習のながれ](https://www.is.s.u-tokyo.ac.jp/pamph/pdf/utokyo_ISguide2020_01.pdf)
   - [x] [O'Reilly Japan - コンピュータシステムの理論と実装](https://www.oreilly.co.jp/books/9784873117126/)
