@@ -173,8 +173,8 @@
 - リンク
   - [ ] [Web のつくりかた: ソフトウェアエンジニアリングと雰囲気で理解する Web 標準とブラウザのつくりかた](https://hayato.io/2017/making-web/)
   - [ ] [ブラウザのしくみ: データ構造とアルゴリズムと雰囲気で理解する DOM と Shadow DOM](https://hayato.io/2017/dom/)
-  - [ ] [The Chromium Projects - For Developers](https://www.chromium.org/developers)
   - [ ] [大学の実験でChromiumに勝手に機能を追加してみた話](http://akaria.hatenablog.com/entry/2017/12/15/144459)
+  - [x] [The Chromium Projects - For Developers](https://www.chromium.org/developers)
   - [x] [WebAssembly 開発環境構築の本](https://wasm-dev-book.netlify.com/webpack.html)
   - [x] [akakou-docs/learn-packet: パケットを作るぞい（ ＾ω＾）](https://github.com/akakou-docs/learn-packet)
   - [x] [はじめに｜Goでゼロから作る 自作TCP/IPプロトコル サーバー](https://zenn.dev/kawa1214/books/5888c6b3554ffa/viewer/introduction)
