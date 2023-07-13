@@ -53,7 +53,7 @@
   - [x] [すぐ理解できるオールカラー ニュースペックテキスト 応用情報技術者 2022年度版 (TAC出版) | TAC株式会社（情報処理講座） | コンピュータ・情報処理 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B09P83G2DW/)
   - [x] [みんなのコンピュータサイエンス | Wladston Ferreira Filho, 小山 裕司, 小山 裕司 | コンピュータ・IT | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07KXP79Y9/)
 - リンク
-  - [ ] [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+  - [x] [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
   - [x] [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
   - [x] [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
   - [x] [プログラミング言語の入門が終わったら何の勉強をすればいいの？ - きしだのHatena](https://nowokay.hatenablog.com/entry/2022/11/27/195003)
