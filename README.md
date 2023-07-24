@@ -710,3 +710,4 @@
   - [x] [配慮のできないエンジニアとの付き合い方 - Qiita](https://qiita.com/Yametaro/items/51e510d9219fa3ca4a09)
   - [x] [サッカーは帰納法](http://ashiki-feelings.blogspot.com/2023/05/blog-post_27.html?m=1)
   - [x] [ナレッジワーカーの集団にとってのアクセルは文化、ブレーキはルール。文化は行動が作る - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](https://nekogata.hatenablog.com/entry/2023/06/22/080000)
+  - [ ] [Go-to person（頼りになる人）](https://nhiroki.jp/2023/07/19/go-to-person)
