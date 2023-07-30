@@ -218,6 +218,7 @@
 ## ソフトウェア工学とサービス構築、プロダクトマネジメント　
 
 - 書籍
+  - [ ] [Amazon.co.jp: ＬＯＶＥＤ　市場を形づくり製品を定着に導くプロダクトマーケティング 電子書籍: マルティナ・ラウチェンコ, 横道稔: Kindleストア](https://www.amazon.co.jp/dp/B0CC9CQDK7)
   - [x] [プロダクトマネージャーになりたい人のための本 エンジニアからプロジェクトマネージャー・事業企画・経営コンサルタント・デザイナー・現役PMまで | 松永 拓也, 山本 航, 武田 直人, 及川 卓也 | コンピュータ・IT | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B0C3HH4B29)
 - リンク
   - [x] [質とスピード（2022春版、質疑応答用資料付き） / Quality and Speed 2022 Spring Edition - Speaker Deck](https://speakerdeck.com/twada/quality-and-speed-2022-spring-edition)
