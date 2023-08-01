@@ -137,7 +137,7 @@
   - [ ] [Docker コンテナのレイヤー構造について - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2021/06/08/214843)
   - [ ] [ベースのコンテナイメージはどうやって作成されているか？ - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2021/06/15/220129)
   - [ ] [自作CPU & 自作OSをやっていく (2) - 64ビットRISC-Vの "Hello World" をRustで作った | 俺とお前とlaysakura](https://laysakura.github.io/2020/02/03/handcraft-cpu-os-2/)
-  - [ ] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
+  - [x] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
   - [x] [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017 - Qiita](https://qiita.com/advent-calendar/2017/lowlayer)
   - [x] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
   - [x] [「マイコン入門!! 必携用語集」関連の最新 ニュース・レビュー・解説 記事 まとめ - ITmedia Keywords](https://www.itmedia.co.jp/keywords/edn_micro_mustvocab.html)
