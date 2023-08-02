@@ -319,7 +319,7 @@
 
 - 書籍
 - リンク
-  - [ ] [みんな、とにかくオセロAIを作るんだ - Qiita](https://qiita.com/Nyanyan_Cube/items/1839732d7bdf74caff21)
+  - [x] [みんな、とにかくオセロAIを作るんだ - Qiita](https://qiita.com/Nyanyan_Cube/items/1839732d7bdf74caff21)
 
 
 ## 面接対策
