@@ -80,6 +80,7 @@
 ## プログラミング言語
 
 - 書籍
+  - [ ] [Amazon.co.jp: なっとく！関数型プログラミング eBook : Michał Płachta, 株式会社クイープ, 株式会社クイープ: Kindleストア](https://www.amazon.co.jp/dp/B0C7L33ZZF)
 - リンク
   - [ ] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
   - [ ] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
