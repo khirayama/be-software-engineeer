@@ -333,6 +333,7 @@
   - [ ] [system-design-primer/README-ja.md at master · donnemartin/system-design-primer · GitHub](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
   - [ ] [Grokking the System Design Interview - Learn Interactively](https://www.educative.io/courses/grokking-the-system-design-interview)
   - [ ] [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+  - [x] [フランスでのエンジニア就活体験記 | Hippocampus's Garden](https://hippocampus-garden.com/job_hunt_in_france/)
   - [x] [シリコンバレーでエンジニア就職する前に知りたかったこと | Milezero](https://tnanjo.net//2019/07/14/technical-interview-in-us.html)
   - [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
   - [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
