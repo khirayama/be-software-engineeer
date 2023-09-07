@@ -721,3 +721,4 @@
   - [x] [Go-to person（頼りになる人）](https://nhiroki.jp/2023/07/19/go-to-person)
   - [x] [手を動かさないマネージャーを試している - id:onk のはてなブログ](https://onk.hatenablog.jp/entry/2023/08/31/235920)
   - [x] [どもども "VP of Engineering" です。｜hidek](https://note.com/hidek/n/n5bd1f891fe81)
+  - [x] [『北欧、暮らしの道具店』は、無理はしないが手は抜かない。健全な事業成長をするチームとは。 | Agend(アジェンド)](https://agend.jp/media/kurashicom-aoki-sato/)
