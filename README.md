@@ -722,3 +722,4 @@
   - [x] [手を動かさないマネージャーを試している - id:onk のはてなブログ](https://onk.hatenablog.jp/entry/2023/08/31/235920)
   - [x] [どもども "VP of Engineering" です。｜hidek](https://note.com/hidek/n/n5bd1f891fe81)
   - [x] [『北欧、暮らしの道具店』は、無理はしないが手は抜かない。健全な事業成長をするチームとは。 | Agend(アジェンド)](https://agend.jp/media/kurashicom-aoki-sato/)
+  - [x] [なぜ私の1on1はめんどくさかったのか？](https://zenn.dev/tarusource/articles/6a46870ec74eb3)
