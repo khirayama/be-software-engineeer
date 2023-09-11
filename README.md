@@ -723,3 +723,4 @@
   - [x] [どもども "VP of Engineering" です。｜hidek](https://note.com/hidek/n/n5bd1f891fe81)
   - [x] [『北欧、暮らしの道具店』は、無理はしないが手は抜かない。健全な事業成長をするチームとは。 | Agend(アジェンド)](https://agend.jp/media/kurashicom-aoki-sato/)
   - [x] [なぜ私の1on1はめんどくさかったのか？](https://zenn.dev/tarusource/articles/6a46870ec74eb3)
+  - [x] [Google社の優れたマネジャーが備える10の特徴　1位の「コーチング」スキルが求められる背景とは - ログミーBiz](https://logmi.jp/business/articles/329249)
