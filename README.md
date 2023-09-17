@@ -392,6 +392,7 @@
   - [x] [AddyOsmani.com - Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/?fbclid=IwAR2pGD3zoxb1FCQc3FjdwusZ7_C-qU0INq-PljRwZafasfQcDaY5dOC-pOA)
   - [x] [翻訳記事: 私がシリコンバレーで3000万円の年収オファーをどうやって獲得したのか｜西嶋悠貴｜note](https://note.com/yukinishijima/n/n8de870690721)
   - [x] [コードレビュー開発者ガイド | google-eng-practices-ja](https://fujiharuka.github.io/google-eng-practices-ja/ja/review/)
+  - [x] [シニアエンジニアの先にある「スタッフエンジニア」という役職　書籍『Staff Engineer』から見る4つの役割 - ログミーTech](https://logmi.jp/tech/articles/329276)
 
 
 ## 組織マネジメント
