@@ -90,6 +90,7 @@
   - [ ] [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
   - [ ] [第一回 簡易PostScriptインタプリタを作ろう](https://karino2.github.io/c-lesson/forth_modoki.html)
   - [ ] [10ステップで作るお手軽インタプリタ開発](https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa)
+  - [x] [Rustソースコードのざっくりとした歩き方 🦀 - Speaker Deck](https://speakerdeck.com/tako8ki/rustsosukotonosatukuritositabu-kifang-3f597e58-222e-4c70-9b1b-e644eaa34895)
   - [x] [Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2022_06_23/50109)
   - [x] [Rubyのメモリ管理方法1: 基本概念（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2022_06_02/118259)
   - [x] [値渡しと参照渡しの違いを理解する](https://magazine.rubyist.net/articles/0032/0032-CallByValueAndCallByReference.html)
