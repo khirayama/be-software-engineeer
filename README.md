@@ -727,3 +727,4 @@
   - [x] [なぜ私の1on1はめんどくさかったのか？](https://zenn.dev/tarusource/articles/6a46870ec74eb3)
   - [x] [Google社の優れたマネジャーが備える10の特徴　1位の「コーチング」スキルが求められる背景とは - ログミーBiz](https://logmi.jp/business/articles/329249)
   - [x] [研修で学んだコーチングを試したのにメンバーの信頼が低下…　企業における「マネジャー育成」で成果を出すポイント - ログミーBiz](https://logmi.jp/business/articles/329250)
+  - [x] [エンジニアの成長に向き合う評価と目標設定 - Speaker Deck](https://speakerdeck.com/sansantech/sansan-20230905-2)
