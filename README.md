@@ -216,6 +216,7 @@
   - [x] [自作RDBMSやろうぜ!（Zenn出張版）](https://zenn.dev/ryogrid/articles/f983ab79e36dcb)
   - [x] [転置インデックスの圧縮技法](https://takuya-a.net/blog/inverted-index-compression-techniques/#variable-byte-family)
   - [x] [データベースの仕組み(アーキテクチャ)をざっくり理解する](https://zenn.dev/revenuehack/articles/dc5a901fbe90e6)
+  - [x] [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
 
 
 ## ソフトウェア工学とサービス構築、プロダクトマネジメント　
