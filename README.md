@@ -222,7 +222,7 @@
 ## ソフトウェア工学とサービス構築、プロダクトマネジメント　
 
 - 書籍
-  - [ ] [Amazon.co.jp: ＬＯＶＥＤ　市場を形づくり製品を定着に導くプロダクトマーケティング 電子書籍: マルティナ・ラウチェンコ, 横道稔: Kindleストア](https://www.amazon.co.jp/dp/B0CC9CQDK7)
+  - [x] [Amazon.co.jp: ＬＯＶＥＤ　市場を形づくり製品を定着に導くプロダクトマーケティング 電子書籍: マルティナ・ラウチェンコ, 横道稔: Kindleストア](https://www.amazon.co.jp/dp/B0CC9CQDK7)
   - [x] [プロダクトマネージャーになりたい人のための本 エンジニアからプロジェクトマネージャー・事業企画・経営コンサルタント・デザイナー・現役PMまで | 松永 拓也, 山本 航, 武田 直人, 及川 卓也 | コンピュータ・IT | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B0C3HH4B29)
 - リンク
   - [x] [良いコードとは何か - エンジニア新卒研修 スライド公開 - Speaker Deck](https://speakerdeck.com/moriatsushi/liang-ikodotohahe-ka-enziniaxin-zu-yan-xiu-suraidogong-kai)
