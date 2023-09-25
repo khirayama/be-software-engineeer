@@ -300,6 +300,7 @@
   - [x] [Animate with springs - WWDC23 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2023/10158/)
   - [x] [「推測するな、計測せよ」を推測するな - Qiita](https://qiita.com/e99h2121/items/e8f899756b21b0414835)
   - [x] [開発生産性と組織](https://1000ch.github.io/slides/productivity-and-organization/)
+  - [x] [フロントエンドの開発生産性とは - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/hurontoendonokai-fa-sheng-chan-xing-toha)
 
 
 ## 画像処理とクリエイティブコーディング
