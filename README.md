@@ -731,4 +731,5 @@
   - [x] [Google社の優れたマネジャーが備える10の特徴　1位の「コーチング」スキルが求められる背景とは - ログミーBiz](https://logmi.jp/business/articles/329249)
   - [x] [研修で学んだコーチングを試したのにメンバーの信頼が低下…　企業における「マネジャー育成」で成果を出すポイント - ログミーBiz](https://logmi.jp/business/articles/329250)
   - [x] [エンジニアの成長に向き合う評価と目標設定 - Speaker Deck](https://speakerdeck.com/sansantech/sansan-20230905-2)
+  - [x] [「家族アルバム みてね」におけるエンジニアリングラダーを公開します - mitene / FamilyAlbum Team](https://team-blog.mitene.us/familyalbum-engineering-ladder-1a6e81b0aca6)
   - [x] [みてねのエンジニアリングラダー](https://team.mitene.us/aa36702f8bed4505bffb03e075aae26f)
