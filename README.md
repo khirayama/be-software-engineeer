@@ -735,3 +735,4 @@
   - [x] [「家族アルバム みてね」におけるエンジニアリングラダーを公開します - mitene / FamilyAlbum Team](https://team-blog.mitene.us/familyalbum-engineering-ladder-1a6e81b0aca6)
   - [x] [みてねのエンジニアリングラダー](https://team.mitene.us/aa36702f8bed4505bffb03e075aae26f)
   - [x] [ソフトウェア開発の真の問題点は、コードを書くことではなく、問題の複雑さの管理にある - YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20230925/the-real-problem-with-software-development)
+  - [x] [30点で打席に立つ - Speaker Deck](https://speakerdeck.com/konifar/30dian-deda-xi-nili-tu)
