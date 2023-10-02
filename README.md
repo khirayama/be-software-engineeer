@@ -737,3 +737,4 @@
   - [x] [みてねのエンジニアリングラダー](https://team.mitene.us/aa36702f8bed4505bffb03e075aae26f)
   - [x] [ソフトウェア開発の真の問題点は、コードを書くことではなく、問題の複雑さの管理にある - YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20230925/the-real-problem-with-software-development)
   - [x] [30点で打席に立つ - Speaker Deck](https://speakerdeck.com/konifar/30dian-deda-xi-nili-tu)
+  - [x] [「心理的安全性」はなぜ混乱を招き続けるのか | Q by Livesense](https://q.livesense.co.jp/2023/09/26/2287.html)
