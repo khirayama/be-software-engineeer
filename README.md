@@ -305,6 +305,7 @@
   - [x] [開発生産性と組織](https://1000ch.github.io/slides/productivity-and-organization/)
   - [x] [フロントエンドの開発生産性とは - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/hurontoendonokai-fa-sheng-chan-xing-toha)
   - [x] [Microsoft Bing でのパフォーマンスの向上 | エンジニアリングブログ](https://blogs.bing.com/Engineering-Blog/august-2023/Driving-Performance-at-Microsoft-Bing)
+  - [x] [日本のテストの現場への提言 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20130604-mamezo02/)
 
 
 ## 画像処理とクリエイティブコーディング
