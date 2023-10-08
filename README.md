@@ -743,3 +743,4 @@
   - [x] [30点で打席に立つ - Speaker Deck](https://speakerdeck.com/konifar/30dian-deda-xi-nili-tu)
   - [x] [「心理的安全性」はなぜ混乱を招き続けるのか | Q by Livesense](https://q.livesense.co.jp/2023/09/26/2287.html)
   - [x] [「名前のない仕事」ができる人は強い | potato4d D(iary)](https://d.potato4d.me/entry/20231004-unnamed-work/)
+  - [x] [入社ゼロヶ月のVPoEが感じてることつらつら書いてみます - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/2023/10/05/143718)
