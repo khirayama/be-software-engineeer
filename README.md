@@ -747,3 +747,4 @@
   - [x] [Ubie社の人事制度をリサーチする - kaneda blog](https://kaneda3.com/2023/09/29/ubie%E7%A4%BE%E3%81%AE%E4%BA%BA%E4%BA%8B%E5%88%B6%E5%BA%A6%E3%82%92%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%81%99%E3%82%8B/)
   - [x] [207で1年間磨き続けた1on1のフォーマットを公開します｜207株式会社](https://note.com/207inc/n/n0d05c44fd363?sub_rt=share_sb)
   - [x] [【新連載・栗林健太郎氏】私がキャリア戦略をもたない理由と、結局は一番大事だと思う3つの考え方の話。 | レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_318/)
+  - [x] [HIGH OUTPUT MANAGEMENT | technical-note](https://hkawabata.github.io/technical-note/note/Reading-Notes/HIGH-OUTPUT-MANAGEMENT.html)
