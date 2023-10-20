@@ -408,6 +408,7 @@
 ## 組織マネジメント
 
 - 書籍
+  - [ ] [HIGH OUTPUT MANAGEMENT eBook : アンドリュー・S・グローブ, 小林　薫: Kindleストア](https://www.amazon.co.jp/dp/B01MU055XH)
   - [x] [組織行動 有斐閣ストゥディア | 鈴木竜太, 服部泰宏 | ビジネス・経済 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07TYRMZ2S/ref=cm_sw_r_tw_dp_KA0G2PJRDV21P4V527W0)
   - [x] [O'Reilly Japan - エンジニアリングマネージャーのしごと](https://www.oreilly.co.jp/books/9784873119946/)
   - [x] [異文化理解力｜書籍｜英治出版](http://www.eijipress.co.jp/book/book.php?epcode=2208)
