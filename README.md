@@ -82,6 +82,7 @@
 
 - 書籍
   - [ ] [Amazon.co.jp: なっとく！関数型プログラミング eBook : Michał Płachta, 株式会社クイープ, 株式会社クイープ: Kindleストア](https://www.amazon.co.jp/dp/B0C7L33ZZF)
+  - [ ] [Amazon.co.jp: インタプリタの作り方 －言語設計／開発の基本と2つの方式による実装－ eBook : Robert Nystrom, 吉川邦夫: Kindleストア](https://www.amazon.co.jp/dp/B0CKL7YC2Z)
 - リンク
   - [ ] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
   - [ ] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
