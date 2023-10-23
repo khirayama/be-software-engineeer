@@ -751,3 +751,4 @@
   - [x] [207で1年間磨き続けた1on1のフォーマットを公開します｜207株式会社](https://note.com/207inc/n/n0d05c44fd363?sub_rt=share_sb)
   - [x] [【新連載・栗林健太郎氏】私がキャリア戦略をもたない理由と、結局は一番大事だと思う3つの考え方の話。 | レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_318/)
   - [x] [HIGH OUTPUT MANAGEMENT | technical-note](https://hkawabata.github.io/technical-note/note/Reading-Notes/HIGH-OUTPUT-MANAGEMENT.html)
+  - [x] [「チームがうまく回るとマネージャーはやることなくなって自分いなくても良いじゃんみたいな感じで自己効能感が下がる問題 むかしは自分もそういう感覚に悩まされた。今思うと、子供のころから、なにか一生懸命やってないと駄目というバイアスというか呪いみたいなものにかかってたのかとも思う」 / X](https://twitter.com/naoya_ito/status/1715921533779235138?t=kFGREPWpsO5Qeax-z6MFXg&s=19)
