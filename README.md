@@ -130,6 +130,7 @@
 ## コンピュータとOS
 
 - 書籍
+  - [ ] [論理と計算のしくみ | 萩谷 昌己, 西崎 真也 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4007305803)
 - リンク
   - [ ] [Linux システムコール 徹底入門](https://www.kimullaa.com/posts/202001051012/)
   - [ ] [Linux プロセス管理を理解したい - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2020/04/07/114746)
