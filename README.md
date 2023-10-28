@@ -228,6 +228,7 @@
 ## ソフトウェア工学とサービス構築、プロダクトマネジメント　
 
 - 書籍
+  - [ ] [Hacking Growth　グロースハック完全読本 eBook : ショーン・エリス, モーガン・ブラウン: Kindleストア](https://www.amazon.co.jp/dp/B07HXKFQWQ)
   - [x] [Amazon.co.jp: ＬＯＶＥＤ　市場を形づくり製品を定着に導くプロダクトマーケティング 電子書籍: マルティナ・ラウチェンコ, 横道稔: Kindleストア](https://www.amazon.co.jp/dp/B0CC9CQDK7)
   - [x] [プロダクトマネージャーになりたい人のための本 エンジニアからプロジェクトマネージャー・事業企画・経営コンサルタント・デザイナー・現役PMまで | 松永 拓也, 山本 航, 武田 直人, 及川 卓也 | コンピュータ・IT | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B0C3HH4B29)
 - リンク
