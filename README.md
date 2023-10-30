@@ -311,6 +311,7 @@
   - [x] [Microsoft Bing でのパフォーマンスの向上 | エンジニアリングブログ](https://blogs.bing.com/Engineering-Blog/august-2023/Driving-Performance-at-Microsoft-Bing)
   - [x] [日本のテストの現場への提言 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20130604-mamezo02/)
   - [x] [ソフトウェア工学は失敗している - きしだのHatena](https://nowokay.hatenablog.com/entry/20130322/1363969460)
+  - [x] [Product and Platform Engineers | Lee Robinson](https://leerob.io/blog/product-engineers)
 
 
 ## 画像処理とクリエイティブコーディング
