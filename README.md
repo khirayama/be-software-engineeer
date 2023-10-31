@@ -216,7 +216,7 @@
 ## データベース
 
 - 書籍
-  - [ ] [Amazon.co.jp: データベースシステム(改訂2版) eBook : 北川 博之: Kindleストア](https://www.amazon.co.jp/dp/B08BNXFRL3)
+  - [ ] [データベースシステム(改訂2版) eBook : 北川 博之: Kindleストア](https://www.amazon.co.jp/dp/B08BNXFRL3)
 - リンク
   - [x] [1000万件オーバーのレコードのデータをカジュアルに扱うための心構え](https://joker1007.hatenablog.com/entry/2020/11/04/214646)
   - [x] [自作RDBMSやろうぜ!（Zenn出張版）](https://zenn.dev/ryogrid/articles/f983ab79e36dcb)
