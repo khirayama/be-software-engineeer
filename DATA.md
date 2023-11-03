@@ -1,0 +1,6 @@
+- [データマートの作り方を5つのステップで解説！](https://www.dsk-cloud.com/blog/how-to-male-data-mart-5-steps)
+- [組織の分散しているデータをBigQueryにまとめてLooker Studioで可視化する方法](https://zenn.dev/minedia/articles/c3b8809006d6fb)
+- [Cloud DataflowでGCS→BQのパイプラインをPythonで試してみる | DevelopersIO](https://dev.classmethod.jp/articles/cloud-dataflow_gcs2bq_python/)
+- [【図解】データウェアハウス（DWH）とは？基本や使い方を解説 | MOLTS](https://moltsinc.co.jp/data-strategy/9804/)
+- [BigQuery エンタープライズ向けデータ ウェアハウス  |  Google Cloud](https://cloud.google.com/bigquery?hl=ja)
+- [2023年版データ分析の100冊 - Qiita](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
