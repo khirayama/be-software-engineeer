@@ -145,7 +145,6 @@
   - [ ] [自作CPU & 自作OSをやっていく (2) - 64ビットRISC-Vの "Hello World" をRustで作った | 俺とお前とlaysakura](https://laysakura.github.io/2020/02/03/handcraft-cpu-os-2/)
   - [ ] [無から始める自作CPU](https://vlsi.jp/LetsMakeCPU.html)
   - [ ] [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/index.html)
-  - [ ] [RaspberryPi を安定運用させる #RaspberryPi - Qiita](https://qiita.com/HirohitoHigashi/items/7b57781a8a4874012d3d)
   - [x] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
   - [x] [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017 - Qiita](https://qiita.com/advent-calendar/2017/lowlayer)
   - [x] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
@@ -175,6 +174,7 @@
   - [x] [OpenGLの後継3DグラフィックスAPI「Vulkan」"ベンダーに依存しないGPU操作"を叶える仕組み - ログミーTech](https://logmi.jp/tech/articles/326259)
   - [x] [マルチスレッドのコンテキスト切り替えに伴うコスト - naoyaのはてなダイアリー](https://naoya-2.hatenadiary.org/entry/20071010/1192040413)
   - [x] [ファイル操作とファイル・システム](https://ie.u-ryukyu.ac.jp/~kono/lecture/os/ex/file/file.html)
+  - [x] [RaspberryPi を安定運用させる #RaspberryPi - Qiita](https://qiita.com/HirohitoHigashi/items/7b57781a8a4874012d3d)
 
 
 ## 通信、ネットワークとインターネット
