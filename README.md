@@ -762,3 +762,4 @@
   - [x] [ジェンダーギャップが発生する理由と対策としてのアファーマティブアクション | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/44111/)
   - [x] [リアーキテクトと開発生産性について - Speaker Deck](https://speakerdeck.com/yosuke_furukawa/riakitekutotokai-fa-sheng-chan-xing-nituite)
   - [x] [等級の中に「サブグレード」をつくってはいけない - kaneda blog](https://kaneda3.com/2023/11/09/%E7%AD%89%E7%B4%9A%E3%81%AE%E4%B8%AD%E3%81%AB%E3%80%8C%E3%82%B5%E3%83%96%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E3%80%8D%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA/)
+  - [x] [Engineering Career Ladderを作るときに気をつけたこと　其の一 - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2023/11/07/164102)
