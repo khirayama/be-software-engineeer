@@ -132,6 +132,7 @@
 - 書籍
   - [ ] [論理と計算のしくみ | 萩谷 昌己, 西崎 真也 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4007305803)
   - [ ] [プログラムがコンピュータで動く仕組み - ハードウェア記述言語・CPUアーキテクチャ・アセンブラ・コンパイラ超入門 - | 中野 浩嗣, 伊藤 靖朗 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/433902922X)
+  - [ ] [プログラマーのためのCPU入門 ― CPUは如何にしてソフトウェアを高速に実行するか（電子書籍のみ） – 技術書出版と販売のラムダノート](https://www.lambdanote.com/products/cpu-ebook)
 - リンク
   - [ ] [Linux システムコール 徹底入門](https://www.kimullaa.com/posts/202001051012/)
   - [ ] [Linux プロセス管理を理解したい - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2020/04/07/114746)
