@@ -84,7 +84,6 @@
   - [ ] [Amazon.co.jp: なっとく！関数型プログラミング eBook : Michał Płachta, 株式会社クイープ, 株式会社クイープ: Kindleストア](https://www.amazon.co.jp/dp/B0C7L33ZZF)
   - [ ] [Amazon.co.jp: インタプリタの作り方 －言語設計／開発の基本と2つの方式による実装－ eBook : Robert Nystrom, 吉川邦夫: Kindleストア](https://www.amazon.co.jp/dp/B0CKL7YC2Z)
 - リンク
-  - [ ] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
   - [ ] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
   - [ ] [JavaScript の仕組み：メモリ管理+ 4つの共通のメモリリーク処理方法](https://qiita.com/tkdn/items/ea4f034e0d661def244a)
   - [ ] [プログラミング言語の作り方 〜 Go によるアセンブラ、バーチャルマシン、コンパイラの実装](https://qiita.com/nirasan/items/cb1f79955f31c45c6658)
@@ -92,6 +91,7 @@
   - [ ] [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
   - [ ] [第一回 簡易PostScriptインタプリタを作ろう](https://karino2.github.io/c-lesson/forth_modoki.html)
   - [ ] [10ステップで作るお手軽インタプリタ開発](https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa)
+  - [x] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
   - [x] [Rustソースコードのざっくりとした歩き方 🦀 - Speaker Deck](https://speakerdeck.com/tako8ki/rustsosukotonosatukuritositabu-kifang-3f597e58-222e-4c70-9b1b-e644eaa34895)
   - [x] [Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2022_06_23/50109)
   - [x] [Rubyのメモリ管理方法1: 基本概念（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2022_06_02/118259)
