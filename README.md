@@ -318,6 +318,7 @@
   - [x] [日本のテストの現場への提言 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20130604-mamezo02/)
   - [x] [ソフトウェア工学は失敗している - きしだのHatena](https://nowokay.hatenablog.com/entry/20130322/1363969460)
   - [x] [Product and Platform Engineers | Lee Robinson](https://leerob.io/blog/product-engineers)
+  - [x] [t_wadaさんと「単体テストの使い方/考え方」の疑問点についてディスカッションしました - DeNA Testing Blog](https://swet.dena.com/entry/2023/11/13/170000)
 
 
 ## 画像処理とクリエイティブコーディング
