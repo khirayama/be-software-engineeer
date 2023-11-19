@@ -81,7 +81,7 @@
 ## プログラミング言語
 
 - 書籍
-  - [ ] [Amazon.co.jp: なっとく！関数型プログラミング eBook : Michał Płachta, 株式会社クイープ, 株式会社クイープ: Kindleストア](https://www.amazon.co.jp/dp/B0C7L33ZZF)
+  - [ ] [なっとく！関数型プログラミング eBook : Michał Płachta, 株式会社クイープ, 株式会社クイープ: Kindleストア](https://www.amazon.co.jp/dp/B0C7L33ZZF)
   - [ ] [Amazon.co.jp: インタプリタの作り方 －言語設計／開発の基本と2つの方式による実装－ eBook : Robert Nystrom, 吉川邦夫: Kindleストア](https://www.amazon.co.jp/dp/B0CKL7YC2Z)
   - [ ] [プログラミング言語の基礎概念 ((ライブラリ情報学コア・テキスト)) | 五十嵐 淳 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4781912850)
 - リンク
