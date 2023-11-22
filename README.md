@@ -415,6 +415,7 @@
   - [x] [翻訳記事: 私がシリコンバレーで3000万円の年収オファーをどうやって獲得したのか｜西嶋悠貴｜note](https://note.com/yukinishijima/n/n8de870690721)
   - [x] [コードレビュー開発者ガイド | google-eng-practices-ja](https://fujiharuka.github.io/google-eng-practices-ja/ja/review/)
   - [x] [シニアエンジニアの先にある「スタッフエンジニア」という役職　書籍『Staff Engineer』から見る4つの役割 - ログミーTech](https://logmi.jp/tech/articles/329276)
+  - [x] [エンジニアに求められるソフトスキルって何だろう｜nacam403](https://note.com/nacam403/n/n0adbf3ff2085)
 
 
 ## 組織マネジメント
