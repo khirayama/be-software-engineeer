@@ -7,3 +7,4 @@
 - [ ] [Google 広告「検索広告」認定資格 : Google](https://skillshop.exceedlms.com/student/path/18151-google?sid=2744ede7-59b2-4abe-ba53-16c7b264b311&sid_i=3)
 - [ ] [Practical Data Science with R and Python](https://uribo.github.io/practical-ds/intro)
 - [ ] [特徴量エンジニアリング #Python - Qiita](https://qiita.com/tk-tatsuro/items/f27c012e0cb95a5f51d2)
+- [ ] [僕たちのKaggle挑戦記 - ＠IT](https://atmarkit.itmedia.co.jp/ait/subtop/features/di/kagglechallenge_index.html)
