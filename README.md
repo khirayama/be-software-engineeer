@@ -147,6 +147,7 @@
   - [ ] [自作CPU & 自作OSをやっていく (2) - 64ビットRISC-Vの "Hello World" をRustで作った | 俺とお前とlaysakura](https://laysakura.github.io/2020/02/03/handcraft-cpu-os-2/)
   - [ ] [無から始める自作CPU](https://vlsi.jp/LetsMakeCPU.html)
   - [ ] [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/index.html)
+  - [ ] [ZigでWriting an OS in 1,000 Linesをやる | MaybeUnInit](https://bokuweb.github.io/undefined/articles/20231121.html)
   - [x] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
   - [x] [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017 - Qiita](https://qiita.com/advent-calendar/2017/lowlayer)
   - [x] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
