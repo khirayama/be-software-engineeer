@@ -362,6 +362,7 @@
   - [x] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
   - [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
   - [x] [GoogleのProduct Managerになりました｜natsumi.kondo｜note](https://note.com/723kondo/n/nada75462d544)
+  - [x] [10年かけてカナダでソフトウェアエンジニアになるまでの道のり - As a Futurist...](https://blog.riywo.com/2023/11/the-10-year-road-to-becoming-a-software-engineer-in-canada/)
 
 
 ## 仕組みとチュートリアル
