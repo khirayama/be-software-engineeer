@@ -10,3 +10,4 @@
 - [ ] [僕たちのKaggle挑戦記 - ＠IT](https://atmarkit.itmedia.co.jp/ait/subtop/features/di/kagglechallenge_index.html)
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions?listOption=active&hostSegmentIdFilter=5)
 - [ ] [多田 翼 - #読むとマーケティングがおもしろくなるノート｜note](https://note.com/tsubasatada/)
+- [ ] [SQLの練習ができる学習サービス | SQLab](https://sqlab.net/)
