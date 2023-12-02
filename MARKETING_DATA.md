@@ -5,12 +5,12 @@
 - [ ] [Cloud DataflowでGCS→BQのパイプラインをPythonで試してみる | DevelopersIO](https://dev.classmethod.jp/articles/cloud-dataflow_gcs2bq_python/)
 - [ ] [【図解】データウェアハウス（DWH）とは？基本や使い方を解説 | MOLTS](https://moltsinc.co.jp/data-strategy/9804/)
 - [ ] [BigQuery エンタープライズ向けデータ ウェアハウス  |  Google Cloud](https://cloud.google.com/bigquery?hl=ja)
-- [ ] [2023年版データ分析の100冊 - Qiita](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
 - [ ] [Practical Data Science with R and Python](https://uribo.github.io/practical-ds/intro)
 - [ ] [特徴量エンジニアリング #Python - Qiita](https://qiita.com/tk-tatsuro/items/f27c012e0cb95a5f51d2)
 - [ ] [僕たちのKaggle挑戦記 - ＠IT](https://atmarkit.itmedia.co.jp/ait/subtop/features/di/kagglechallenge_index.html)
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions?listOption=active&hostSegmentIdFilter=5)
 - [ ] [SQLの練習ができる学習サービス | SQLab](https://sqlab.net/)
+- [x] [2023年版データ分析の100冊 - Qiita](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
 
 ## マーケティング
 
