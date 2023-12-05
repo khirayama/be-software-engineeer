@@ -321,6 +321,7 @@
   - [x] [ソフトウェア工学は失敗している - きしだのHatena](https://nowokay.hatenablog.com/entry/20130322/1363969460)
   - [x] [Product and Platform Engineers | Lee Robinson](https://leerob.io/blog/product-engineers)
   - [x] [t_wadaさんと「単体テストの使い方/考え方」の疑問点についてディスカッションしました - DeNA Testing Blog](https://swet.dena.com/entry/2023/11/13/170000)
+  - [x] [squash and mergeしか使ってないけど全く困ってない – Jun Mukai's blog](https://wp.jmuk.org/2023/11/30/squash-and-merge%e3%81%97%e3%81%8b%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%aa%e3%81%84%e3%81%91%e3%81%a9%e5%85%a8%e3%81%8f%e5%9b%b0%e3%81%a3%e3%81%a6%e3%81%aa%e3%81%84/)
 
 
 ## 画像処理とクリエイティブコーディング
