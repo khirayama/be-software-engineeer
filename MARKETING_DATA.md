@@ -8,6 +8,7 @@
 - [ ] [特徴量エンジニアリング #Python - Qiita](https://qiita.com/tk-tatsuro/items/f27c012e0cb95a5f51d2)
 - [ ] [僕たちのKaggle挑戦記 - ＠IT](https://atmarkit.itmedia.co.jp/ait/subtop/features/di/kagglechallenge_index.html)
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions?listOption=active&hostSegmentIdFilter=5)
+- [ ] [Looker Studio やさしいはじめの一歩〜実際に触って理解するレポート作成ワークショップ〜 - ROXX開発者ブログ](https://techblog.roxx.co.jp/entry/2023/11/27/204412)
 - [x] [2023年版データ分析の100冊 - Qiita](https://qiita.com/aokikenichi/items/29165f719d6e5631d7d0)
 
 - [ ] [Practical Data Science with R and Python](https://uribo.github.io/practical-ds/intro)
