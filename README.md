@@ -776,3 +776,4 @@
   - [x] [Engineering Career Ladderを作るときに気をつけたこと　其の一 - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2023/11/07/164102)
   - [x] [「売上が上がらないことよりも、人が辞める方がつらい」という本音 - kaneda blog](https://kaneda3.com/2023/11/13/%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%81%8C%E4%B8%8A%E3%81%8C%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%88%E3%82%8A%E3%82%82%E3%80%81%E4%BA%BA%E3%81%8C%E8%BE%9E%E3%82%81%E3%82%8B%E6%96%B9%E3%81%8C/)
   - [x] [デザイナーが考える「組織デザイン」（1）：「心理的安全性」って本当に必要か？｜Goodpatch Blog グッドパッチブログ](https://goodpatch.com/blog/2023-11-psychological-safety)
+  - [x] [強いエンジニア組織に必要な、6つの技術以外のこと &#8211; メルカリ編 | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20231206-4e4f1e2323/)
