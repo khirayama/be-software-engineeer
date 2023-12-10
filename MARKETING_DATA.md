@@ -17,5 +17,6 @@
 ## マーケティング
 
 - [ ] [多田 翼 - #読むとマーケティングがおもしろくなるノート｜note](https://note.com/tsubasatada/)
-- [ ] [Google 広告「検索広告」認定資格 : Google](https://skillshop.exceedlms.com/student/path/18151-google?sid=2744ede7-59b2-4abe-ba53-16c7b264b311&sid_i=3)
 - [x] [地域マーケティングとは？実際の成功事例3選と成否を分けるポイント | LISKUL](https://liskul.com/regional-marketing-127766)
+
+- [ ] [Google 広告「検索広告」認定資格 : Google](https://skillshop.exceedlms.com/student/path/18151-google?sid=2744ede7-59b2-4abe-ba53-16c7b264b311&sid_i=3)
