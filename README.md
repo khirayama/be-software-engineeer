@@ -421,6 +421,7 @@
   - [x] [コードレビュー開発者ガイド | google-eng-practices-ja](https://fujiharuka.github.io/google-eng-practices-ja/ja/review/)
   - [x] [シニアエンジニアの先にある「スタッフエンジニア」という役職　書籍『Staff Engineer』から見る4つの役割 - ログミーTech](https://logmi.jp/tech/articles/329276)
   - [x] [エンジニアに求められるソフトスキルって何だろう｜nacam403](https://note.com/nacam403/n/n0adbf3ff2085)
+  - [x] [米Googleに入社して分かった、本当に大事な健康習慣6選 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/23125-healthy-habits-every-professional-should-practice/)
 
 
 ## 組織マネジメント
