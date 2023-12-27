@@ -779,3 +779,4 @@
   - [x] [デザイナーが考える「組織デザイン」（1）：「心理的安全性」って本当に必要か？｜Goodpatch Blog グッドパッチブログ](https://goodpatch.com/blog/2023-11-psychological-safety)
   - [x] [強いエンジニア組織に必要な、6つの技術以外のこと &#8211; メルカリ編 | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20231206-4e4f1e2323/)
   - [x] [CTOやVPoEと違いEMには再現性がある - 神様なんて信じない僕らのために](https://isoparametric.hatenablog.com/entry/2023/12/12/072247)
+  - [x] [チームで仕事をするなら、リアクションし続けよ｜森 一貴（Mori Kazuki）](https://note.com/dutoit6/n/ned66041f43ff)
