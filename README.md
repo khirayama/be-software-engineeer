@@ -218,6 +218,7 @@
   - [x] [第1章 進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし、HTTP/3の基本を知る | gihyo.jp](https://gihyo.jp/admin/serial/01/http3/0001)
   - [x] [Webpagetestから始める継続的パフォーマンス改善](http://azu.github.io/slide/2018/roppongijs/webpagetest-performance.html)
   - [x] [なぜMACアドレスとIPアドレスは両方必要なのか？](https://zenn.dev/haan/articles/d0eba891974649)
+  - [x] [CORSを絶対に理解する](https://zenn.dev/syo_yamamoto/articles/445ce152f05b02)
 
 
 ## データベース
