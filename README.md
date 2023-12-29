@@ -179,6 +179,7 @@
   - [x] [ファイル操作とファイル・システム](https://ie.u-ryukyu.ac.jp/~kono/lecture/os/ex/file/file.html)
   - [x] [RaspberryPi を安定運用させる #RaspberryPi - Qiita](https://qiita.com/HirohitoHigashi/items/7b57781a8a4874012d3d)
   - [x] [Rust std fs slower than Python!? No, it's hardware!](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
+  - [x] [RaspberryPi を安定運用させる #RaspberryPi - Qiita](https://qiita.com/HirohitoHigashi/items/7b57781a8a4874012d3d)
 
 
 ## 通信、ネットワークとインターネット
