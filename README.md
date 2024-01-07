@@ -784,3 +784,4 @@
   - [x] [チームで仕事をするなら、リアクションし続けよ｜森 一貴（Mori Kazuki）](https://note.com/dutoit6/n/ned66041f43ff)
   - [x] [こんなエンジニアリングマネージャだから仕事がしやすいんだなぁと思う10個のこと - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2023/12/23/110403)
   - [x] [XユーザーのJun Takada / 高田 純さん: 「アンチェロッティの選手に対する考え方、指導者としての本音がマスタークラス過ぎるので是非皆さん見てください。 https://t.co/K7l3zPijqY」 / X](https://twitter.com/ney10jun/status/1739231552993739261)
+  - [x] [こんな環境だからエンジニアリングマネージャーが仕事しやすいんだなぁと思う10個のこと｜dora_e_m](https://note.com/dora_e_m/n/nd235c30ff66d?sub_rt=share_pb)
