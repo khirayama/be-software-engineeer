@@ -786,3 +786,4 @@
   - [x] [XユーザーのJun Takada / 高田 純さん: 「アンチェロッティの選手に対する考え方、指導者としての本音がマスタークラス過ぎるので是非皆さん見てください。 https://t.co/K7l3zPijqY」 / X](https://twitter.com/ney10jun/status/1739231552993739261)
   - [x] [こんな環境だからエンジニアリングマネージャーが仕事しやすいんだなぁと思う10個のこと｜dora_e_m](https://note.com/dora_e_m/n/nd235c30ff66d?sub_rt=share_pb)
   - [x] [スタートアップの組織設計図の5類型と、その失敗率 | Coral Capital](https://coralcap.co/2020/03/organizational-blueprints/)
+  - [x] [課題解決を人に任せるが、課題理解を人任せにはしない](https://nhiroki.jp/2024/01/05/delegation)
