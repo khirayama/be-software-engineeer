@@ -787,3 +787,4 @@
   - [x] [こんな環境だからエンジニアリングマネージャーが仕事しやすいんだなぁと思う10個のこと｜dora_e_m](https://note.com/dora_e_m/n/nd235c30ff66d?sub_rt=share_pb)
   - [x] [スタートアップの組織設計図の5類型と、その失敗率 | Coral Capital](https://coralcap.co/2020/03/organizational-blueprints/)
   - [x] [課題解決を人に任せるが、課題理解を人任せにはしない](https://nhiroki.jp/2024/01/05/delegation)
+  - [x] [ソフトウェアに関わる人が知っておくといいかもしれない法則10個 － Publickey](https://www.publickey1.jp/blog/24/10_13.html)
