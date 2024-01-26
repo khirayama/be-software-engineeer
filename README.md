@@ -400,6 +400,7 @@
   - [ ] [Introduction - Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html)
   - [ ] [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
   - [ ] [はじめに - Writing an OS in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/ja/welcome)
+  - [ ] [Build A Fullstack App with Remix, Prisma & MongoDB - Project Setup](https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-1-7D0BfTXBmB6r)
   - [x] [Next.jsとStripeではじめるシンプルなECサイト開発ワークショップ](https://zenn.dev/stripe/books/stripe-nextjs-use-shopping-cart)
   - [x] [Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)[Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)[Istio入門 - Speaker Deck](https://speakerdeck.com/nutslove/istioru-men)
   - [x] [今年もミクシィの22新卒技術研修の資料と動画を公開します！. 今年は昨年より多くの研修の資料と動画を公開します！ | by Koji Kita | Jul, 2022 | mixi developers](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)[今年もミクシィの22新卒技術研修の資料と動画を公開します！. 今年は昨年より多くの研修の資料と動画を公開します！ | by Koji Kita | Jul, 2022 | mixi developers](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
