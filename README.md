@@ -219,6 +219,7 @@
   - [x] [Webpagetestから始める継続的パフォーマンス改善](http://azu.github.io/slide/2018/roppongijs/webpagetest-performance.html)
   - [x] [なぜMACアドレスとIPアドレスは両方必要なのか？](https://zenn.dev/haan/articles/d0eba891974649)
   - [x] [CORSを絶対に理解する](https://zenn.dev/syo_yamamoto/articles/445ce152f05b02)
+  - [x] [kurtextrem/awesome-performance-patches: 🚀⚡ Awesome list about performance related patches/PRs.](https://github.com/kurtextrem/awesome-performance-patches)
 
 
 ## データベース
