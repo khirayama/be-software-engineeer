@@ -25,6 +25,7 @@
 
 - [カリキュラム標準コンピュータ科学領域(CS)-情報処理学会](https://www.ipsj.or.jp/annai/committee/education/j07/ed_j17-CS.html)
 - [コンピュータサイエンスのカリキュラム標準](https://zenn.dev/tmknom/scraps/d8bae6a6cf5b70)
+- [世界標準のソフトウェア工学知識体系SWEBOK Guide最新第4版を通じた開発アップデート | PPT](https://www.slideshare.net/slideshows/swebok-guide4/266465974)
 
 ## 目次
 
