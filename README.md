@@ -61,6 +61,7 @@
   - [x] [TeachYourselfCS-JP/日本語.md at main · ralphplumley/TeachYourselfCS-JP](https://github.com/ralphplumley/TeachYourselfCS-JP/blob/main/%E6%97%A5%E6%9C%AC%E8%AA%9E.md)
   - [x] [「思うに、情報科学科は計算と計算機とは何かを学ぶ場所であった。理論的(チューリングマシン、ラムダ計算、述語論理、計算複雑性など)、構成的(プロセッサ、OS、連続系など)、観察的(言語処理、人工知能、生命情報など)と感じていて、一貫して計算とは何かを扱っていることに卒業する直前に気づいた」 / Twitter](https://twitter.com/unnonouno/status/1648630323973062662)
   - [x] [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo)
+  - [x] [世界標準のソフトウェア工学知識体系SWEBOK Guide最新第4版を通じた開発アップデート | PPT](https://www.slideshare.net/slideshows/swebok-guide4/266465974)
 
 
 ## データ構造とアルゴリズム
