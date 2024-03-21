@@ -795,3 +795,4 @@
   - [x] [ソフトウェアに関わる人が知っておくといいかもしれない法則10個 － Publickey](https://www.publickey1.jp/blog/24/10_13.html)
   - [x] [「全ては会社の競争力を生み出すために」アーキテクチャを刷新し、ドメインモデリングも組織再編もエンジニア教育も一つ一つ丁寧に積み上げてモダナイズを進めた話｜CTOロングインタビュー - MonotaRO Tech Blog](https://tech-blog.monotaro.com/entry/2024/02/01/090000)
   - [x] [事業会社のWeb/IT開発系マネージャーとしてのプレイスタイルまたは取扱説明書 :: ハブろぐ](https://havelog.aho.mu/management/e796-poem_about_management.html)
+  - [x] [友人が「感情を率直に扱えたら論理的」と言っていた話。 - フジイユウジ::ドットネット](https://fujii-yuji.net/2023/12/02/235420)
