@@ -796,3 +796,4 @@
   - [x] [「全ては会社の競争力を生み出すために」アーキテクチャを刷新し、ドメインモデリングも組織再編もエンジニア教育も一つ一つ丁寧に積み上げてモダナイズを進めた話｜CTOロングインタビュー - MonotaRO Tech Blog](https://tech-blog.monotaro.com/entry/2024/02/01/090000)
   - [x] [事業会社のWeb/IT開発系マネージャーとしてのプレイスタイルまたは取扱説明書 :: ハブろぐ](https://havelog.aho.mu/management/e796-poem_about_management.html)
   - [x] [友人が「感情を率直に扱えたら論理的」と言っていた話。 - フジイユウジ::ドットネット](https://fujii-yuji.net/2023/12/02/235420)
+  - [x] [キャリア理論をもとに考えるエンジニアのキャリア/Engineer's careers based on career theory - Speaker Deck](https://speakerdeck.com/dskst/engineers-careers-based-on-career-theory)
