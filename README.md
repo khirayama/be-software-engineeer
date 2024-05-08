@@ -800,3 +800,4 @@
   - [x] [友人が「感情を率直に扱えたら論理的」と言っていた話。 - フジイユウジ::ドットネット](https://fujii-yuji.net/2023/12/02/235420)
   - [x] [キャリア理論をもとに考えるエンジニアのキャリア/Engineer's careers based on career theory - Speaker Deck](https://speakerdeck.com/dskst/engineers-careers-based-on-career-theory)
   - [x] [デザイナーが考える「組織デザイン」（3）：リーダーの「聴く力」でチームが変わる｜Goodpatch Blog グッドパッチブログ](https://goodpatch.com/blog/2024-03-active-listening)
+  - [x] [メンバー1人1人のスキルアップを促す「等級（グレード）」と「給与テーブル」｜風音屋（かざねや）](https://note.com/kazaneya/n/nbbfbe3b32fed)
