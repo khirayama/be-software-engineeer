@@ -803,3 +803,4 @@
   - [x] [メンバー1人1人のスキルアップを促す「等級（グレード）」と「給与テーブル」｜風音屋（かざねや）](https://note.com/kazaneya/n/nbbfbe3b32fed)
   - [x] [An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Medium](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
   - [x] [「不機嫌な上司から逃げるのは正しい」　まつもとゆきひろ氏が語る、心の健康を守り、キャリアを長持ちさせる方法 - ログミーTech](https://logmi.jp/tech/articles/330356)
+  - [x] [リクルート創業期の組織論がとてもおもしろいので、実践してみた結果｜黒崎 俊 / プレックス代表取締役](https://comemo.nikkei.com/n/n71025a78bbd0?gs=c26e1bba9981)
