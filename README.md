@@ -413,6 +413,7 @@
   - [x] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
   - [x] [minipack](https://github.com/ronami/minipack)
   - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
+  - [x] [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/#7)
 
 
 ## ソフトスキルとキャリア
