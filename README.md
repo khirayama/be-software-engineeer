@@ -809,3 +809,4 @@
   - [x] [1on1ミーティングガイド (1on1ガイド)](https://guide.1on1guide.org/)
   - [x] [Xユーザーのこがねん｜組織開発するマンさん: 「個人的に「組織はリーダーの＜人間力＞以上には伸びない」と思っていて、リーダーの人間力が発達し続ける限り、たとえ力量が上の部下であっても、たとえ上司の方が学ぶことが多い関係性であっても、その組織はリーダーの力量を超えて伸びていく、という実例を数多く見てきています。」 / X](https://x.com/jibunhack/status/1803746001343189452?t=yDvV2MyhUiVFU84VCc-JQg&s=19)
   - [x] [一休CTOが語るエンジニアの事業貢献とユーザーエクスペリエンスへのコミット 伊藤直也さんインタビュー - Findy Engineer Lab](https://findy-code.io/engineer-lab/naoya_ito)
+  - [x] [開発生産性を標榜して効率に拘泥するチームはゆるやかに衰退する :: ハブろぐ](https://havelog.aho.mu/misc/e798-efficiency-focus-team-decline.html)
