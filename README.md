@@ -129,6 +129,7 @@
   - [x] [フロントエンドエンジニアの友人と“型”で話がすれ違った原因 - Qiita](https://qiita.com/Kaito-Dogi/items/58023fc6e501f09a56ae)
   - [x] [TypeScript 本体のコードを読んでみよう](https://zenn.dev/mizchi/articles/typescript-code-reading)
   - [x] [PHPの生みの親、ラスマス・ラードフ氏インタビュー | gihyo.jp](https://gihyo.jp/news/report/2015/12/1401)
+  - [x] [JavaScript エンジンの高速化](https://zenn.dev/acd1034/articles/240726-accelerating-javascript-engine)
 
 
 ## コンピュータとOS
