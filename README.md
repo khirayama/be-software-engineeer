@@ -377,6 +377,7 @@
   - [x] [メルカリを退職してロンドンのMetaに転職します 〜 外資Big Tech転職活動体験記｜松岡玲音｜note](https://note.com/lain21/n/n5fde6f4463bc)
   - [x] [GoogleのProduct Managerになりました｜natsumi.kondo｜note](https://note.com/723kondo/n/nada75462d544)
   - [x] [10年かけてカナダでソフトウェアエンジニアになるまでの道のり - As a Futurist...](https://blog.riywo.com/2023/11/the-10-year-road-to-becoming-a-software-engineer-in-canada/)
+  - [x] [外資IT企業のSoftware Engineer - Machine Learningのオファーをもらうためにやったこと - 肉球でキーボード](https://nsakki55.hatenablog.com/entry/2024/08/07/194920)
 
 
 ## 仕組みとチュートリアル
