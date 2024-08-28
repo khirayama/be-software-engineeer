@@ -818,3 +818,4 @@
   - [x] [開発生産性を標榜して効率に拘泥するチームはゆるやかに衰退する :: ハブろぐ](https://havelog.aho.mu/misc/e798-efficiency-focus-team-decline.html)
   - [x] [Googleが行なった「最高のチームをつくる」調査の意外な結果。メンバーは重要ではなかった | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2407-google-research-reveals-5reasonsa-team-will-be-effective-productive-feel-satisfied-fulfilled/)
   - [x] [グーグルの戦略マネージャーが教える、職場で存在感を発揮するためにすべき5つのこと | Business Insider Japan](https://www.businessinsider.jp/post-288941)
+  - [x] [エンジニアの成長における過去と現代の違い | 外道父の匠](https://blog.father.gedow.net/2024/07/18/every-experience-counts/)
