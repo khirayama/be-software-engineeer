@@ -227,6 +227,7 @@
   - [x] [kurtextrem/awesome-performance-patches: 🚀⚡ Awesome list about performance related patches/PRs.](https://github.com/kurtextrem/awesome-performance-patches)
   - [x] [令和時代の API 実装のベースプラクティスと CSRF 対策 | blog.jxck.io](https://blog.jxck.io/entries/2024-04-26/csrf.html)
   - [x] [ブラウザからDBに行き着くまでただまとめる](https://zenn.dev/moko_poi/articles/c2402f13a870a1)
+  - [x] [Chromium にコントリビュートするための周辺知識 | blog.jxck.io](https://blog.jxck.io/entries/2024-03-26/chromium-contribution.html)
 
 
 ## データベース
