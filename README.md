@@ -229,6 +229,7 @@
   - [x] [ブラウザからDBに行き着くまでただまとめる](https://zenn.dev/moko_poi/articles/c2402f13a870a1)
   - [x] [Chromium にコントリビュートするための周辺知識 | blog.jxck.io](https://blog.jxck.io/entries/2024-03-26/chromium-contribution.html)
   - [x] [ブラウザのしくみ: データ構造とアルゴリズムと雰囲気で理解する DOM と Shadow DOM - hayato](https://hayatoito.github.io/2017/dom/)
+  - [x] [Web のつくりかた: ソフトウェアエンジニアリングと雰囲気で理解する Web 標準とブラウザのつくりかた - hayato](https://hayatoito.github.io/2017/making-web/)
 
 
 ## データベース
