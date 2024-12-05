@@ -339,6 +339,7 @@
   - [x] [テスト駆動開発の第一歩をt_wadaさんに聞く。1人で始める自動テストのコツと考え方 - Agile Journey](https://agilejourney.uzabase.com/entry/2023/11/30/103000)
   - [x] [日本で人気爆発中の経営シミュレーションアプリ「コーヒーインク」を開発する、謎の会社 Side Labs 創業者インタビュー ](https://startuptimez.com/posts/coffeeinc2)
   - [x] [Webサービス公開前のチェックリスト](https://zenn.dev/catnose99/articles/547cbf57e5ad28)
+  - [x] [2024年版のDockerfileの考え方＆書き方 | フューチャー技術ブログ](https://future-architect.github.io/articles/20240726a/)
 
 
 ## 画像処理とクリエイティブコーディング
