@@ -340,6 +340,7 @@
   - [x] [日本で人気爆発中の経営シミュレーションアプリ「コーヒーインク」を開発する、謎の会社 Side Labs 創業者インタビュー ](https://startuptimez.com/posts/coffeeinc2)
   - [x] [Webサービス公開前のチェックリスト](https://zenn.dev/catnose99/articles/547cbf57e5ad28)
   - [x] [2024年版のDockerfileの考え方＆書き方 | フューチャー技術ブログ](https://future-architect.github.io/articles/20240726a/)
+  - [x] [【2024年版】Dockerfileのベストプラクティスを整理しながらNode.jsで実践する](https://zenn.dev/mutex_inc/articles/nodejs-ts-docker-best-practice)
 
 
 ## 画像処理とクリエイティブコーディング
