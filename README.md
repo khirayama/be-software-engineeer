@@ -428,6 +428,7 @@
   - [x] [共同編集を支える技術とライブラリの活用 - ICS MEDIA](https://ics.media/entry/220526/)
   - [x] [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/#7)
   - [x] [PHPでデータベースを作ってみた/create-data-with-php - Speaker Deck](https://speakerdeck.com/hanhan1978/create-data-with-php)
+  - [x] [Reactが初回マウントされるまでの仕組みを理解する](https://zenn.dev/aishift/articles/d046335a98bc34)
 
 
 ## ソフトスキルとキャリア
