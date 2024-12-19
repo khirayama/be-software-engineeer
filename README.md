@@ -386,6 +386,7 @@
   - [x] [GoogleのProduct Managerになりました｜natsumi.kondo｜note](https://note.com/723kondo/n/nada75462d544)
   - [x] [10年かけてカナダでソフトウェアエンジニアになるまでの道のり - As a Futurist...](https://blog.riywo.com/2023/11/the-10-year-road-to-becoming-a-software-engineer-in-canada/)
   - [x] [外資IT企業のSoftware Engineer - Machine Learningのオファーをもらうためにやったこと - 肉球でキーボード](https://nsakki55.hatenablog.com/entry/2024/08/07/194920)
+  - [x] [エンジニアな転職に役立った書籍と考え方そして実際やったこと. - Lean Baseball](https://shinyorke.hatenablog.com/entry/engineer-book-2025)
 
 
 ## 仕組みとチュートリアル
