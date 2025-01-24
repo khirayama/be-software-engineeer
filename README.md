@@ -834,3 +834,4 @@
   - [x] [抽象度の高い仕事の進め方 - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2024/09/10/185251)
   - [x] [Executive translation. | Irrational Exuberance](https://lethain.com/executive-translation/)
   - [x] [方針に納得できない時のお作法 - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2024/11/05/192421)
+  - [x] [仕事のインパクトを大きくしようとすると人を巻き込む必要がある - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2021/11/17/193247)
