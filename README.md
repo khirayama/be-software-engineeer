@@ -132,6 +132,17 @@
   - [x] [TypeScript 本体のコードを読んでみよう](https://zenn.dev/mizchi/articles/typescript-code-reading)
   - [x] [PHPの生みの親、ラスマス・ラードフ氏インタビュー | gihyo.jp](https://gihyo.jp/news/report/2015/12/1401)
   - [x] [JavaScript エンジンの高速化](https://zenn.dev/acd1034/articles/240726-accelerating-javascript-engine)
+  - [x] [TypeScriptは型安全じゃないからすばらしい - まめめも](https://mametter.hatenablog.com/entry/2024/10/07/095302)
+  - [x] [TypeScriptで学ぶ代数的データ型](https://zenn.dev/eagle/articles/ts-coproduct-introduction)
+  - [x] [TypeScriptの型で設計を表現する、宣言的バックエンド実装具体例](https://zenn.dev/chillnn_tech/articles/implementation-of-declarative-backend)
+  - [x] [何故あなたはインターフェースをうまく使えないのか](https://zenn.dev/yamayuski/articles/why-you-dont-use-interfaces)
+  - [x] [TypeScriptで「選択肢」の定義をEnum的な定数にまとめる――satisfiesとSSoTもあるよ](https://zenn.dev/yumemi_inc/articles/ts-enum-like-const)
+  - [x] [【TypeScript】as const（const アサーション） を理解する #JavaScript - Qiita](https://qiita.com/tkmd35/items/5aa930a02b3a09cec2e1)
+  - [x] [集合で理解する Typescript](https://zenn.dev/luvmini511/articles/008915362779e5)
+  - [x] [TypeScriptの高度な型をマスターする](https://zenn.dev/andmorefine/articles/99330637883d50)
+  - [x] [カリーハワード同型対応についてのまとめ - きしだのHatena](https://nowokay.hatenablog.com/entry/20130808/1375946759)
+  - [x] [TypeScriptでカリー＝ハワード同型対応（？）](https://gist.github.com/kom-bu/2d43bf1f0b940deccfdddb28557ea75c)
+  - [x] [よわよわエンジニアがTAPL（型システム入門）を読んだら | sititou70](https://sititou70.github.io/%E3%82%88%E3%82%8F%E3%82%88%E3%82%8F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C-TAPL%EF%BC%88%E5%9E%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A5%E9%96%80%EF%BC%89%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0%E3%82%89/)
 
 
 ## コンピュータとOS
