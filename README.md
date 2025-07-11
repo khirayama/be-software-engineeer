@@ -143,6 +143,12 @@
   - [x] [カリーハワード同型対応についてのまとめ - きしだのHatena](https://nowokay.hatenablog.com/entry/20130808/1375946759)
   - [x] [TypeScriptでカリー＝ハワード同型対応（？）](https://gist.github.com/kom-bu/2d43bf1f0b940deccfdddb28557ea75c)
   - [x] [よわよわエンジニアがTAPL（型システム入門）を読んだら | sititou70](https://sititou70.github.io/%E3%82%88%E3%82%8F%E3%82%88%E3%82%8F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C-TAPL%EF%BC%88%E5%9E%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A5%E9%96%80%EF%BC%89%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A0%E3%82%89/)
+  - [x] [【完全版】これ1本でTypeScriptの基本をマスターできる！ #ハンズオン - Qiita](https://qiita.com/Sicut_study/items/340022c2a7bc05b15587)
+  - [x] [箱で考えるFunctor、ApplicativeそしてMonad #Haskell - Qiita](https://qiita.com/suin/items/0255f0637921dcdfe83b)
+  - [x] [TypeScript: 異なる2つの型システム「公称型」と「構造的部分型」 #TypeScript - Qiita](https://qiita.com/suin/items/52cf80021361168f6b0e)
+  - [x] [ボトム型 - Wikipedia](https://ja.m.wikipedia.org/wiki/%E3%83%9C%E3%83%88%E3%83%A0%E5%9E%8B)
+  - [x] [TypeScriptの型入門 #TypeScript - Qiita](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)
+
 
 
 ## コンピュータとOS
