@@ -262,6 +262,7 @@
   - [x] [データベースの仕組み(アーキテクチャ)をざっくり理解する](https://zenn.dev/revenuehack/articles/dc5a901fbe90e6)
   - [x] [Why Is SQLite Coded In C](https://www.sqlite.org/whyc.html)
   - [x] [作って理解する RDBMSのしくみ - Speaker Deck](https://speakerdeck.com/ydah/zuo-tuteli-jie-suru-rdbmsnosikumi)
+  - [x] [リレーショナルデータベース設計の完全ガイド #RDB - Qiita](https://qiita.com/K3n_to_n17/items/02d8c63a820d50a71842)
 
 
 ## ソフトウェア工学とサービス構築、プロダクトマネジメント　
