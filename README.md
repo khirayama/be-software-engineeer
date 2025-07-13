@@ -362,6 +362,7 @@
   - [x] [2024年版のDockerfileの考え方＆書き方 | フューチャー技術ブログ](https://future-architect.github.io/articles/20240726a/)
   - [x] [【2024年版】Dockerfileのベストプラクティスを整理しながらNode.jsで実践する](https://zenn.dev/mutex_inc/articles/nodejs-ts-docker-best-practice)
   - [x] [Dockerfile を書くベストプラクティス — Docker-docs-ja 24.0 ドキュメント](https://docs.docker.jp/develop/develop-images/dockerfile_best-practices.html#dockerfile)
+  - [x] [Webサーバーアーキテクチャ進化論2023 | blog.ojisan.io](https://blog.ojisan.io/server-architecture-2023/)
 
 
 ## 画像処理とクリエイティブコーディング
