@@ -431,6 +431,7 @@
   - [ ] [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)
   - [ ] [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
   - [ ] [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
+  - [x] [Quality Engineer Learning Roadmap | by Blake Norrish | Slalom Build | Medium](https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e)
   - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
   - [ ] [Web Browser Engineering](https://browser.engineering/)
   - [ ] [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook/)
