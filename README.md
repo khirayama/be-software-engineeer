@@ -457,6 +457,7 @@
   - [x] [PHPでデータベースを作ってみた/create-data-with-php - Speaker Deck](https://speakerdeck.com/hanhan1978/create-data-with-php)
   - [x] [Reactが初回マウントされるまでの仕組みを理解する](https://zenn.dev/aishift/articles/d046335a98bc34)
   - [x] [インデックスとは何？MySQL(InnoDB)とPostgreSQLのインデックスの違いとは？調べてみました](https://zenn.dev/calloc134/articles/4f96b0fe093489)
+  - [x] [SLI/SLO 完全ガイド - CyberAgent SRG #ca_srg](https://ca-srg.dev/32f7b8c96de7489094802512de434d0f)
 
 
 ## ソフトスキルとキャリア
