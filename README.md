@@ -476,6 +476,7 @@
   - [x] [シニアエンジニアの先にある「スタッフエンジニア」という役職　書籍『Staff Engineer』から見る4つの役割 - ログミーTech](https://logmi.jp/tech/articles/329276)
   - [x] [エンジニアに求められるソフトスキルって何だろう｜nacam403](https://note.com/nacam403/n/n0adbf3ff2085)
   - [x] [米Googleに入社して分かった、本当に大事な健康習慣6選 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/23125-healthy-habits-every-professional-should-practice/)
+  - [x] [これから伸びるエンジニア職とは？ - AI時代に市場価値を高めるキャリア戦略 @エンジニア業界セミナー in 会津大学 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/05/21/122752)
 
 
 ## 組織マネジメント
