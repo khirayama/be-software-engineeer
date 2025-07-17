@@ -862,3 +862,6 @@
   - [x] [Executive translation. | Irrational Exuberance](https://lethain.com/executive-translation/)
   - [x] [方針に納得できない時のお作法 - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2024/11/05/192421)
   - [x] [仕事のインパクトを大きくしようとすると人を巻き込む必要がある - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2021/11/17/193247)
+  - [x] [強いチームと開発生産性 - Speaker Deck](https://speakerdeck.com/onk/2024-11-15-prefer-output-focused-development-team)
+  - [x] [「心理的安全性」という言葉が広まった今、我々はどう心理的安全性と向き合うか────『心理的安全性のつくりかた』著者、石井遼介さんに聞く。 | Agend(アジェンド)](https://agend.jp/media/ishii-psychological-safety/)
+  - [x] [我在 Meta 當 Staff Engineer. credit… | by Denny | Dec, 2024 | Medium](https://medium.com/@dennyku/%E6%88%91%E5%9C%A8-meta-%E7%95%B6-staff-engineer-687ffeddde0f)
