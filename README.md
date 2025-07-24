@@ -211,7 +211,7 @@
 - 書籍
   - [ ] [コンピュータネットワーク第6版 | アンドリュー・S・タネンバウム, ニック・フィームスター, デビッド・J・ウェセラル, 水野 忠則, 相田 仁, 東野 輝夫, 太田 賢, 西垣 正勝, 渡辺 尚 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B0C1RFS6QK)
 - リンク
-  - [ ] [Web のつくりかた: ソフトウェアエンジニアリングと雰囲気で理解する Web 標準とブラウザのつくりかた](https://hayato.io/2017/making-web/)
+  - [x] [Web のつくりかた: ソフトウェアエンジニアリングと雰囲気で理解する Web 標準とブラウザのつくりかた](https://hayato.io/2017/making-web/)
   - [x] [ブラウザのしくみ: データ構造とアルゴリズムと雰囲気で理解する DOM と Shadow DOM](https://hayato.io/2017/dom/)
   - [x] [大学の実験でChromiumに勝手に機能を追加してみた話](http://akaria.hatenablog.com/entry/2017/12/15/144459)
   - [x] [The Chromium Projects - For Developers](https://www.chromium.org/developers)
