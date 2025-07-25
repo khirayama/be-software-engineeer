@@ -92,7 +92,7 @@
   - [ ] [JavaScript の仕組み：メモリ管理+ 4つの共通のメモリリーク処理方法](https://qiita.com/tkdn/items/ea4f034e0d661def244a)
   - [ ] [プログラミング言語の作り方 〜 Go によるアセンブラ、バーチャルマシン、コンパイラの実装](https://qiita.com/nirasan/items/cb1f79955f31c45c6658)
   - [ ] [Node.jsでつくるNode.js - もくじ](https://qiita.com/massie_g/items/3ee11c105b4458686bc1)
-  - [ ] [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
+  - [x] [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
   - [x] [第一回 簡易PostScriptインタプリタを作ろう](https://karino2.github.io/c-lesson/forth_modoki.html)
   - [x] [10ステップで作るお手軽インタプリタ開発](https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa)
   - [x] [C言語を学びたての人のための電卓自作](https://soukouki.github.io/vault/2024-07/week30/C%E8%A8%80%E8%AA%9E%E3%82%92%E5%AD%A6%E3%81%B3%E3%81%9F%E3%81%A6%E3%81%AE%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E9%9B%BB%E5%8D%93%E8%87%AA%E4%BD%9C)
