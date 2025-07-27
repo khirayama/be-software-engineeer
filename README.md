@@ -91,7 +91,7 @@
   - [ ] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
   - [ ] [JavaScript の仕組み：メモリ管理+ 4つの共通のメモリリーク処理方法](https://qiita.com/tkdn/items/ea4f034e0d661def244a)
   - [x] [プログラミング言語の作り方 〜 Go によるアセンブラ、バーチャルマシン、コンパイラの実装](https://qiita.com/nirasan/items/cb1f79955f31c45c6658)
-  - [ ] [Node.jsでつくるNode.js - もくじ](https://qiita.com/massie_g/items/3ee11c105b4458686bc1)
+  - [x] [Node.jsでつくるNode.js - もくじ](https://qiita.com/massie_g/items/3ee11c105b4458686bc1)
   - [x] [JavaScript のスレッド並列実行環境](https://nhiroki.jp/2017/12/10/javascript-parallel-processing)
   - [x] [第一回 簡易PostScriptインタプリタを作ろう](https://karino2.github.io/c-lesson/forth_modoki.html)
   - [x] [10ステップで作るお手軽インタプリタ開発](https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa)
